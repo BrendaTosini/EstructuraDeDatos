@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "tipo_institucion_id": -1,
+            "tipo_institucion_desc": "Sin datos"
+        },
+        {
+            "tipo_institucion_id": 73,
+            "tipo_institucion_desc": "Organismo gubernamental de ciencia y tecnología"
+        },
+        {
+            "tipo_institucion_id": 74,
+            "tipo_institucion_desc": "Entidad administrativa de gobierno"
+        },
+        {
+            "tipo_institucion_id": 75,
+            "tipo_institucion_desc": "Universidad o instituto universitario estatal"
+        },
+        {
+            "tipo_institucion_id": 76,
+            "tipo_institucion_desc": "Universidad o instituto universitario privado"
+        },
+        {
+            "tipo_institucion_id": 77,
+            "tipo_institucion_desc": "Otra institución educativa no universitaria"
+        },
+        {
+            "tipo_institucion_id": 78,
+            "tipo_institucion_desc": "Empresa"
+        },
+        {
+            "tipo_institucion_id": 79,
+            "tipo_institucion_desc": "Entidad sin fines de lucro"
+        },
+        {
+            "tipo_institucion_id": 80,
+            "tipo_institucion_desc": "Establecimiento asistencial de salud"
+        },
+        {
+            "tipo_institucion_id": 81,
+            "tipo_institucion_desc": "Entidad internacional"
+        },
+        {
+            "tipo_institucion_id": 85,
+            "tipo_institucion_desc": "OCT-Universidad"
+        },
+        {
+            "tipo_institucion_id": 86,
+            "tipo_institucion_desc": "Otras dependencias conjuntas"
+        }
+    ]
+}

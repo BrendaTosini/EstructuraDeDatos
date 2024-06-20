@@ -1,0 +1,5366 @@
+{
+    "data": [
+        {
+            "actividad_economica_id": 1,
+            "actividad_economica_desc": "AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA",
+            "codigo_rev4": "A",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 2,
+            "actividad_economica_desc": "Agricultura, ganadería, caza y actividades de servicios conexas",
+            "codigo_rev4": "01",
+            "nivel": 1,
+            "padre_id": 1
+        },
+        {
+            "actividad_economica_id": 3,
+            "actividad_economica_desc": "Cultivo de plantas no perennes",
+            "codigo_rev4": "011",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 4,
+            "actividad_economica_desc": "Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",
+            "codigo_rev4": "0111",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 5,
+            "actividad_economica_desc": "Cultivo de arroz ",
+            "codigo_rev4": "0112",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 6,
+            "actividad_economica_desc": "Cultivo de hortalizas y melones, raíces y tubérculos",
+            "codigo_rev4": "0113",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 7,
+            "actividad_economica_desc": "Cultivo de caña de azúcar ",
+            "codigo_rev4": "0114",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 8,
+            "actividad_economica_desc": "Cultivo de tabaco ",
+            "codigo_rev4": "0115",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 9,
+            "actividad_economica_desc": "Cultivo de plantas de fibra ",
+            "codigo_rev4": "0116",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 10,
+            "actividad_economica_desc": "Cultivo de otras plantas no perennes",
+            "codigo_rev4": "0119",
+            "nivel": 3,
+            "padre_id": 3
+        },
+        {
+            "actividad_economica_id": 11,
+            "actividad_economica_desc": "Cultivo de plantas perennes",
+            "codigo_rev4": "012",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 12,
+            "actividad_economica_desc": "Cultivo de uva ",
+            "codigo_rev4": "0121",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 13,
+            "actividad_economica_desc": "Cultivo de frutas tropicales y subtropicales",
+            "codigo_rev4": "0122",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 14,
+            "actividad_economica_desc": "Cultivo de cítricos ",
+            "codigo_rev4": "0123",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 15,
+            "actividad_economica_desc": "Cultivo de frutas de pepita y de hueso",
+            "codigo_rev4": "0124",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 16,
+            "actividad_economica_desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+            "codigo_rev4": "0125",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 17,
+            "actividad_economica_desc": "Cultivo de frutos oleaginosos",
+            "codigo_rev4": "0126",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 18,
+            "actividad_economica_desc": "Cultivo de plantas con las que se preparan bebidas ",
+            "codigo_rev4": "0127",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 19,
+            "actividad_economica_desc": "Cultivo de especias y de plantas aromáticas, medicinales y farmacéuticas",
+            "codigo_rev4": "0128",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 20,
+            "actividad_economica_desc": "Cultivo de otras plantas perennes ",
+            "codigo_rev4": "0129",
+            "nivel": 3,
+            "padre_id": 11
+        },
+        {
+            "actividad_economica_id": 21,
+            "actividad_economica_desc": "Propagación de plantas ",
+            "codigo_rev4": "013",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 22,
+            "actividad_economica_desc": "Propagación de plantas ",
+            "codigo_rev4": "0130",
+            "nivel": 3,
+            "padre_id": 21
+        },
+        {
+            "actividad_economica_id": 23,
+            "actividad_economica_desc": "Ganadería ",
+            "codigo_rev4": "014",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 24,
+            "actividad_economica_desc": "Cría de ganado bovino y búfalos",
+            "codigo_rev4": "0141",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 25,
+            "actividad_economica_desc": "Cría de caballos y otros equinos",
+            "codigo_rev4": "0142",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 26,
+            "actividad_economica_desc": "Cría de camellos y otros camélidos",
+            "codigo_rev4": "0143",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 27,
+            "actividad_economica_desc": "Cría de ovejas y cabras ",
+            "codigo_rev4": "0144",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 28,
+            "actividad_economica_desc": "Cría de cerdos ",
+            "codigo_rev4": "0145",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 29,
+            "actividad_economica_desc": "Cría de aves de corral ",
+            "codigo_rev4": "0146",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 30,
+            "actividad_economica_desc": "Cría de otros animales",
+            "codigo_rev4": "0149",
+            "nivel": 3,
+            "padre_id": 23
+        },
+        {
+            "actividad_economica_id": 31,
+            "actividad_economica_desc": "Cultivo de productos agrícolas en combinación con la cría de animales (explotación mixta) ",
+            "codigo_rev4": "015",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 32,
+            "actividad_economica_desc": "Cultivo de productos agrícolas en combinación con la cría de animales (explotación mixta) ",
+            "codigo_rev4": "0150",
+            "nivel": 3,
+            "padre_id": 31
+        },
+        {
+            "actividad_economica_id": 33,
+            "actividad_economica_desc": "Actividades de apoyo a la agricultura y la ganadería y actividades poscosecha",
+            "codigo_rev4": "016",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 34,
+            "actividad_economica_desc": "Actividades de apoyo a la agricultura",
+            "codigo_rev4": "0161",
+            "nivel": 3,
+            "padre_id": 33
+        },
+        {
+            "actividad_economica_id": 35,
+            "actividad_economica_desc": "Actividades de apoyo a la ganadería",
+            "codigo_rev4": "0162",
+            "nivel": 3,
+            "padre_id": 33
+        },
+        {
+            "actividad_economica_id": 36,
+            "actividad_economica_desc": "Actividades poscosecha",
+            "codigo_rev4": "0163",
+            "nivel": 3,
+            "padre_id": 33
+        },
+        {
+            "actividad_economica_id": 37,
+            "actividad_economica_desc": "Tratamiento de semillas para propagación ",
+            "codigo_rev4": "0164",
+            "nivel": 3,
+            "padre_id": 33
+        },
+        {
+            "actividad_economica_id": 38,
+            "actividad_economica_desc": "Caza ordinaria y mediante trampas y actividades de servicios conexas",
+            "codigo_rev4": "017",
+            "nivel": 2,
+            "padre_id": 2
+        },
+        {
+            "actividad_economica_id": 39,
+            "actividad_economica_desc": "Caza ordinaria y mediante trampas y actividades de servicios conexas",
+            "codigo_rev4": "0170",
+            "nivel": 3,
+            "padre_id": 38
+        },
+        {
+            "actividad_economica_id": 40,
+            "actividad_economica_desc": "Silvicultura y extracción de madera ",
+            "codigo_rev4": "02",
+            "nivel": 1,
+            "padre_id": 1
+        },
+        {
+            "actividad_economica_id": 41,
+            "actividad_economica_desc": "Silvicultura y otras actividades forestales ",
+            "codigo_rev4": "021",
+            "nivel": 2,
+            "padre_id": 40
+        },
+        {
+            "actividad_economica_id": 42,
+            "actividad_economica_desc": "Silvicultura y otras actividades forestales ",
+            "codigo_rev4": "0210",
+            "nivel": 3,
+            "padre_id": 41
+        },
+        {
+            "actividad_economica_id": 43,
+            "actividad_economica_desc": "Extracción de madera ",
+            "codigo_rev4": "022",
+            "nivel": 2,
+            "padre_id": 40
+        },
+        {
+            "actividad_economica_id": 44,
+            "actividad_economica_desc": "Extracción de madera ",
+            "codigo_rev4": "0220",
+            "nivel": 3,
+            "padre_id": 43
+        },
+        {
+            "actividad_economica_id": 45,
+            "actividad_economica_desc": "Recolección de productos forestales distintos de la madera",
+            "codigo_rev4": "023",
+            "nivel": 2,
+            "padre_id": 40
+        },
+        {
+            "actividad_economica_id": 46,
+            "actividad_economica_desc": "Recolección de productos forestales distintos de la madera",
+            "codigo_rev4": "0230",
+            "nivel": 3,
+            "padre_id": 45
+        },
+        {
+            "actividad_economica_id": 47,
+            "actividad_economica_desc": "Servicios de apoyo a la silvicultura",
+            "codigo_rev4": "024",
+            "nivel": 2,
+            "padre_id": 40
+        },
+        {
+            "actividad_economica_id": 48,
+            "actividad_economica_desc": "Servicios de apoyo a la silvicultura",
+            "codigo_rev4": "0240",
+            "nivel": 3,
+            "padre_id": 47
+        },
+        {
+            "actividad_economica_id": 49,
+            "actividad_economica_desc": "Pesca y acuicultura ",
+            "codigo_rev4": "03",
+            "nivel": 1,
+            "padre_id": 1
+        },
+        {
+            "actividad_economica_id": 50,
+            "actividad_economica_desc": "Pesca ",
+            "codigo_rev4": "031",
+            "nivel": 2,
+            "padre_id": 49
+        },
+        {
+            "actividad_economica_id": 51,
+            "actividad_economica_desc": "Pesca marítima",
+            "codigo_rev4": "0311",
+            "nivel": 3,
+            "padre_id": 50
+        },
+        {
+            "actividad_economica_id": 52,
+            "actividad_economica_desc": "Pesca de agua dulce",
+            "codigo_rev4": "0312",
+            "nivel": 3,
+            "padre_id": 50
+        },
+        {
+            "actividad_economica_id": 53,
+            "actividad_economica_desc": "Acuicultura ",
+            "codigo_rev4": "032",
+            "nivel": 2,
+            "padre_id": 49
+        },
+        {
+            "actividad_economica_id": 54,
+            "actividad_economica_desc": "Acuicultura marina",
+            "codigo_rev4": "0321",
+            "nivel": 3,
+            "padre_id": 53
+        },
+        {
+            "actividad_economica_id": 55,
+            "actividad_economica_desc": "Acuicultura de agua dulce",
+            "codigo_rev4": "0322",
+            "nivel": 3,
+            "padre_id": 53
+        },
+        {
+            "actividad_economica_id": 56,
+            "actividad_economica_desc": "EXPLOTACIÓN DE MINAS Y CANTERAS",
+            "codigo_rev4": "B",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 57,
+            "actividad_economica_desc": "Extracción de carbón de piedra y lignito ",
+            "codigo_rev4": "05",
+            "nivel": 1,
+            "padre_id": 56
+        },
+        {
+            "actividad_economica_id": 58,
+            "actividad_economica_desc": "Extracción de carbón de piedra ",
+            "codigo_rev4": "051",
+            "nivel": 2,
+            "padre_id": 57
+        },
+        {
+            "actividad_economica_id": 59,
+            "actividad_economica_desc": "Extracción de carbón de piedra ",
+            "codigo_rev4": "0510",
+            "nivel": 3,
+            "padre_id": 58
+        },
+        {
+            "actividad_economica_id": 60,
+            "actividad_economica_desc": "Extracción de lignito ",
+            "codigo_rev4": "052",
+            "nivel": 2,
+            "padre_id": 57
+        },
+        {
+            "actividad_economica_id": 61,
+            "actividad_economica_desc": "Extracción de lignito ",
+            "codigo_rev4": "0520",
+            "nivel": 3,
+            "padre_id": 60
+        },
+        {
+            "actividad_economica_id": 62,
+            "actividad_economica_desc": "Extracción de petróleo crudo y gas natural ",
+            "codigo_rev4": "06",
+            "nivel": 1,
+            "padre_id": 56
+        },
+        {
+            "actividad_economica_id": 63,
+            "actividad_economica_desc": "Extracción de petróleo crudo",
+            "codigo_rev4": "061",
+            "nivel": 2,
+            "padre_id": 62
+        },
+        {
+            "actividad_economica_id": 64,
+            "actividad_economica_desc": "Extracción de petróleo crudo",
+            "codigo_rev4": "0610",
+            "nivel": 3,
+            "padre_id": 63
+        },
+        {
+            "actividad_economica_id": 65,
+            "actividad_economica_desc": "Extracción de gas natural",
+            "codigo_rev4": "062",
+            "nivel": 2,
+            "padre_id": 62
+        },
+        {
+            "actividad_economica_id": 66,
+            "actividad_economica_desc": "Extracción de gas natural",
+            "codigo_rev4": "0620",
+            "nivel": 3,
+            "padre_id": 65
+        },
+        {
+            "actividad_economica_id": 67,
+            "actividad_economica_desc": "Extracción de minerales metalíferos",
+            "codigo_rev4": "07",
+            "nivel": 1,
+            "padre_id": 56
+        },
+        {
+            "actividad_economica_id": 68,
+            "actividad_economica_desc": "Extracción de minerales de hierro ",
+            "codigo_rev4": "071",
+            "nivel": 2,
+            "padre_id": 67
+        },
+        {
+            "actividad_economica_id": 69,
+            "actividad_economica_desc": "Extracción de minerales de hierro ",
+            "codigo_rev4": "0710",
+            "nivel": 3,
+            "padre_id": 68
+        },
+        {
+            "actividad_economica_id": 70,
+            "actividad_economica_desc": "Extracción de minerales metalíferos no ferrosos",
+            "codigo_rev4": "072",
+            "nivel": 2,
+            "padre_id": 67
+        },
+        {
+            "actividad_economica_id": 71,
+            "actividad_economica_desc": "Extracción de minerales de uranio y torio ",
+            "codigo_rev4": "0721",
+            "nivel": 3,
+            "padre_id": 70
+        },
+        {
+            "actividad_economica_id": 72,
+            "actividad_economica_desc": "Extracción de otros minerales metalíferos no ferrosos ",
+            "codigo_rev4": "0729",
+            "nivel": 3,
+            "padre_id": 70
+        },
+        {
+            "actividad_economica_id": 73,
+            "actividad_economica_desc": "Explotación de otras minas y canteras",
+            "codigo_rev4": "08",
+            "nivel": 1,
+            "padre_id": 56
+        },
+        {
+            "actividad_economica_id": 74,
+            "actividad_economica_desc": "Extracción de piedra, arena y arcilla",
+            "codigo_rev4": "081",
+            "nivel": 2,
+            "padre_id": 73
+        },
+        {
+            "actividad_economica_id": 75,
+            "actividad_economica_desc": "Extracción de piedra, arena y arcilla",
+            "codigo_rev4": "0810",
+            "nivel": 3,
+            "padre_id": 74
+        },
+        {
+            "actividad_economica_id": 76,
+            "actividad_economica_desc": "Explotación de minas y canteras n.c.p.",
+            "codigo_rev4": "089",
+            "nivel": 2,
+            "padre_id": 73
+        },
+        {
+            "actividad_economica_id": 77,
+            "actividad_economica_desc": "Extracción de minerales para la fabricación de abonos y productos químicos ",
+            "codigo_rev4": "0891",
+            "nivel": 3,
+            "padre_id": 76
+        },
+        {
+            "actividad_economica_id": 78,
+            "actividad_economica_desc": "Extracción de turba ",
+            "codigo_rev4": "0892",
+            "nivel": 3,
+            "padre_id": 76
+        },
+        {
+            "actividad_economica_id": 79,
+            "actividad_economica_desc": "Extracción de sal ",
+            "codigo_rev4": "0893",
+            "nivel": 3,
+            "padre_id": 76
+        },
+        {
+            "actividad_economica_id": 80,
+            "actividad_economica_desc": "Explotación de otras minas y canteras n.c.p. ",
+            "codigo_rev4": "0899",
+            "nivel": 3,
+            "padre_id": 76
+        },
+        {
+            "actividad_economica_id": 81,
+            "actividad_economica_desc": "Actividades de servicios de apoyo para la explotación de minas y canteras",
+            "codigo_rev4": "09",
+            "nivel": 1,
+            "padre_id": 56
+        },
+        {
+            "actividad_economica_id": 82,
+            "actividad_economica_desc": "Actividades de apoyo para la extracción de petróleo y gas natural ",
+            "codigo_rev4": "091",
+            "nivel": 2,
+            "padre_id": 81
+        },
+        {
+            "actividad_economica_id": 83,
+            "actividad_economica_desc": "Actividades de apoyo para la extracción de petróleo y gas natural ",
+            "codigo_rev4": "0910",
+            "nivel": 3,
+            "padre_id": 82
+        },
+        {
+            "actividad_economica_id": 84,
+            "actividad_economica_desc": "Actividades de apoyo para otras actividades de explotación de minas y canteras",
+            "codigo_rev4": "099",
+            "nivel": 2,
+            "padre_id": 81
+        },
+        {
+            "actividad_economica_id": 85,
+            "actividad_economica_desc": "Actividades de apoyo para otras actividades de explotación de minas y canteras",
+            "codigo_rev4": "0990",
+            "nivel": 3,
+            "padre_id": 84
+        },
+        {
+            "actividad_economica_id": 86,
+            "actividad_economica_desc": "INDUSTRIA MANUFACTURERA",
+            "codigo_rev4": "C",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 87,
+            "actividad_economica_desc": "Elaboración de productos alimenticios",
+            "codigo_rev4": "10",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 88,
+            "actividad_economica_desc": "Elaboración y conservación de carne ",
+            "codigo_rev4": "101",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 89,
+            "actividad_economica_desc": "Elaboración y conservación de carne ",
+            "codigo_rev4": "1010",
+            "nivel": 3,
+            "padre_id": 88
+        },
+        {
+            "actividad_economica_id": 90,
+            "actividad_economica_desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+            "codigo_rev4": "102",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 91,
+            "actividad_economica_desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+            "codigo_rev4": "1020",
+            "nivel": 3,
+            "padre_id": 90
+        },
+        {
+            "actividad_economica_id": 92,
+            "actividad_economica_desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+            "codigo_rev4": "103",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 93,
+            "actividad_economica_desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+            "codigo_rev4": "1030",
+            "nivel": 3,
+            "padre_id": 92
+        },
+        {
+            "actividad_economica_id": 94,
+            "actividad_economica_desc": "Elaboración de aceites y grasas de origen vegetal y animal",
+            "codigo_rev4": "104",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 95,
+            "actividad_economica_desc": "Elaboración de aceites y grasas de origen vegetal y animal",
+            "codigo_rev4": "1040",
+            "nivel": 3,
+            "padre_id": 94
+        },
+        {
+            "actividad_economica_id": 96,
+            "actividad_economica_desc": "Elaboración de productos lácteos",
+            "codigo_rev4": "105",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 97,
+            "actividad_economica_desc": "Elaboración de productos lácteos",
+            "codigo_rev4": "1050",
+            "nivel": 3,
+            "padre_id": 96
+        },
+        {
+            "actividad_economica_id": 98,
+            "actividad_economica_desc": "Elaboración de productos de molinería, almidones y productos derivados del almidón ",
+            "codigo_rev4": "106",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 99,
+            "actividad_economica_desc": "Elaboración de productos de molinería ",
+            "codigo_rev4": "1061",
+            "nivel": 3,
+            "padre_id": 98
+        },
+        {
+            "actividad_economica_id": 100,
+            "actividad_economica_desc": "Elaboración de almidones y productos derivados del almidón",
+            "codigo_rev4": "1062",
+            "nivel": 3,
+            "padre_id": 98
+        },
+        {
+            "actividad_economica_id": 101,
+            "actividad_economica_desc": "Elaboración de otros productos alimenticios ",
+            "codigo_rev4": "107",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 102,
+            "actividad_economica_desc": "Elaboración de productos de panadería ",
+            "codigo_rev4": "1071",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 103,
+            "actividad_economica_desc": "Elaboración de azúcar ",
+            "codigo_rev4": "1072",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 104,
+            "actividad_economica_desc": "Elaboración de cacao y chocolate y de productos de confitería",
+            "codigo_rev4": "1073",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 105,
+            "actividad_economica_desc": "Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares ",
+            "codigo_rev4": "1074",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 106,
+            "actividad_economica_desc": "Elaboración de comidas y platos preparados",
+            "codigo_rev4": "1075",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 107,
+            "actividad_economica_desc": "Elaboración de otros productos alimenticios n.c.p.",
+            "codigo_rev4": "1079",
+            "nivel": 3,
+            "padre_id": 101
+        },
+        {
+            "actividad_economica_id": 108,
+            "actividad_economica_desc": "Elaboración de piensos preparados para animales",
+            "codigo_rev4": "108",
+            "nivel": 2,
+            "padre_id": 87
+        },
+        {
+            "actividad_economica_id": 109,
+            "actividad_economica_desc": "Elaboración de piensos preparados para animales",
+            "codigo_rev4": "1080",
+            "nivel": 3,
+            "padre_id": 108
+        },
+        {
+            "actividad_economica_id": 110,
+            "actividad_economica_desc": "Elaboración de bebidas ",
+            "codigo_rev4": "11",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 111,
+            "actividad_economica_desc": "Elaboración de bebidas ",
+            "codigo_rev4": "110",
+            "nivel": 2,
+            "padre_id": 110
+        },
+        {
+            "actividad_economica_id": 112,
+            "actividad_economica_desc": "Destilación, rectificación y mezcla de bebidas alcohólicas ",
+            "codigo_rev4": "1101",
+            "nivel": 3,
+            "padre_id": 111
+        },
+        {
+            "actividad_economica_id": 113,
+            "actividad_economica_desc": "Elaboración de vinos ",
+            "codigo_rev4": "1102",
+            "nivel": 3,
+            "padre_id": 111
+        },
+        {
+            "actividad_economica_id": 114,
+            "actividad_economica_desc": "Elaboración de bebidas malteadas y de malta ",
+            "codigo_rev4": "1103",
+            "nivel": 3,
+            "padre_id": 111
+        },
+        {
+            "actividad_economica_id": 115,
+            "actividad_economica_desc": "Elaboración de bebidas no alcohólicas; producción de aguas minerales y otras aguas embotelladas ",
+            "codigo_rev4": "1104",
+            "nivel": 3,
+            "padre_id": 111
+        },
+        {
+            "actividad_economica_id": 116,
+            "actividad_economica_desc": "Elaboración de productos de tabaco ",
+            "codigo_rev4": "12",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 117,
+            "actividad_economica_desc": "Elaboración de productos de tabaco ",
+            "codigo_rev4": "120",
+            "nivel": 2,
+            "padre_id": 116
+        },
+        {
+            "actividad_economica_id": 118,
+            "actividad_economica_desc": "Elaboración de productos de tabaco ",
+            "codigo_rev4": "1200",
+            "nivel": 3,
+            "padre_id": 117
+        },
+        {
+            "actividad_economica_id": 119,
+            "actividad_economica_desc": "Fabricación de productos textiles",
+            "codigo_rev4": "13",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 120,
+            "actividad_economica_desc": "Hilatura, tejedura y acabado de productos textiles ",
+            "codigo_rev4": "131",
+            "nivel": 2,
+            "padre_id": 119
+        },
+        {
+            "actividad_economica_id": 121,
+            "actividad_economica_desc": "Preparación e hilatura de fibras textiles",
+            "codigo_rev4": "1311",
+            "nivel": 3,
+            "padre_id": 120
+        },
+        {
+            "actividad_economica_id": 122,
+            "actividad_economica_desc": "Tejedura de productos textiles",
+            "codigo_rev4": "1312",
+            "nivel": 3,
+            "padre_id": 120
+        },
+        {
+            "actividad_economica_id": 123,
+            "actividad_economica_desc": "Acabado de productos textiles",
+            "codigo_rev4": "1313",
+            "nivel": 3,
+            "padre_id": 120
+        },
+        {
+            "actividad_economica_id": 124,
+            "actividad_economica_desc": "Fabricación de otros productos textiles ",
+            "codigo_rev4": "139",
+            "nivel": 2,
+            "padre_id": 119
+        },
+        {
+            "actividad_economica_id": 125,
+            "actividad_economica_desc": "Fabricación de tejidos de punto y ganchillo ",
+            "codigo_rev4": "1391",
+            "nivel": 3,
+            "padre_id": 124
+        },
+        {
+            "actividad_economica_id": 126,
+            "actividad_economica_desc": "Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir ",
+            "codigo_rev4": "1392",
+            "nivel": 3,
+            "padre_id": 124
+        },
+        {
+            "actividad_economica_id": 127,
+            "actividad_economica_desc": "Fabricación de tapices y alfombras ",
+            "codigo_rev4": "1393",
+            "nivel": 3,
+            "padre_id": 124
+        },
+        {
+            "actividad_economica_id": 128,
+            "actividad_economica_desc": "Fabricación de cuerdas, cordeles, bramantes y redes ",
+            "codigo_rev4": "1394",
+            "nivel": 3,
+            "padre_id": 124
+        },
+        {
+            "actividad_economica_id": 129,
+            "actividad_economica_desc": "Fabricación de otros productos textiles n.c.p.",
+            "codigo_rev4": "1399",
+            "nivel": 3,
+            "padre_id": 124
+        },
+        {
+            "actividad_economica_id": 130,
+            "actividad_economica_desc": "Fabricación de prendas de vestir ",
+            "codigo_rev4": "14",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 131,
+            "actividad_economica_desc": "Fabricación de prendas de vestir, excepto prendas de piel ",
+            "codigo_rev4": "141",
+            "nivel": 2,
+            "padre_id": 130
+        },
+        {
+            "actividad_economica_id": 132,
+            "actividad_economica_desc": "Fabricación de prendas de vestir, excepto prendas de piel ",
+            "codigo_rev4": "1410",
+            "nivel": 3,
+            "padre_id": 131
+        },
+        {
+            "actividad_economica_id": 133,
+            "actividad_economica_desc": "Fabricación de artículos de piel ",
+            "codigo_rev4": "142",
+            "nivel": 2,
+            "padre_id": 130
+        },
+        {
+            "actividad_economica_id": 134,
+            "actividad_economica_desc": "Fabricación de artículos de piel ",
+            "codigo_rev4": "1420",
+            "nivel": 3,
+            "padre_id": 133
+        },
+        {
+            "actividad_economica_id": 135,
+            "actividad_economica_desc": "Fabricación de artículos de punto y ganchillo ",
+            "codigo_rev4": "143",
+            "nivel": 2,
+            "padre_id": 130
+        },
+        {
+            "actividad_economica_id": 136,
+            "actividad_economica_desc": "Fabricación de artículos de punto y ganchillo ",
+            "codigo_rev4": "1430",
+            "nivel": 3,
+            "padre_id": 135
+        },
+        {
+            "actividad_economica_id": 137,
+            "actividad_economica_desc": "Fabricación de productos de cuero y productos conexos",
+            "codigo_rev4": "15",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 138,
+            "actividad_economica_desc": "Curtido y adobo de cueros; fabricación de maletas, bolsos de mano y artículos de talabartería y",
+            "codigo_rev4": "151",
+            "nivel": 2,
+            "padre_id": 137
+        },
+        {
+            "actividad_economica_id": 139,
+            "actividad_economica_desc": "Curtido y adobo de cueros; adobo y teñido de pieles",
+            "codigo_rev4": "1511",
+            "nivel": 3,
+            "padre_id": 138
+        },
+        {
+            "actividad_economica_id": 140,
+            "actividad_economica_desc": "Fabricación de maletas, bolsos de mano y artículos similares, y de artículos de talabartería y guarnicionería",
+            "codigo_rev4": "1512",
+            "nivel": 3,
+            "padre_id": 138
+        },
+        {
+            "actividad_economica_id": 141,
+            "actividad_economica_desc": "Fabricación de calzado ",
+            "codigo_rev4": "152",
+            "nivel": 2,
+            "padre_id": 137
+        },
+        {
+            "actividad_economica_id": 142,
+            "actividad_economica_desc": "Fabricación de calzado ",
+            "codigo_rev4": "1520",
+            "nivel": 3,
+            "padre_id": 141
+        },
+        {
+            "actividad_economica_id": 143,
+            "actividad_economica_desc": "Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos",
+            "codigo_rev4": "16",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 144,
+            "actividad_economica_desc": "Aserrado y acepilladura de madera ",
+            "codigo_rev4": "161",
+            "nivel": 2,
+            "padre_id": 143
+        },
+        {
+            "actividad_economica_id": 145,
+            "actividad_economica_desc": "Aserrado y acepilladura de madera ",
+            "codigo_rev4": "1610",
+            "nivel": 3,
+            "padre_id": 144
+        },
+        {
+            "actividad_economica_id": 146,
+            "actividad_economica_desc": "Fabricación de productos de madera, corcho, paja y materiales trenzables",
+            "codigo_rev4": "162",
+            "nivel": 2,
+            "padre_id": 143
+        },
+        {
+            "actividad_economica_id": 147,
+            "actividad_economica_desc": "Fabricación de hojas de madera para enchapado y tableros a base de madera ",
+            "codigo_rev4": "1621",
+            "nivel": 3,
+            "padre_id": 146
+        },
+        {
+            "actividad_economica_id": 148,
+            "actividad_economica_desc": "Fabricación de partes y piezas de carpintería para edificios y construcciones ",
+            "codigo_rev4": "1622",
+            "nivel": 3,
+            "padre_id": 146
+        },
+        {
+            "actividad_economica_id": 149,
+            "actividad_economica_desc": "Fabricación de recipientes de madera ",
+            "codigo_rev4": "1623",
+            "nivel": 3,
+            "padre_id": 146
+        },
+        {
+            "actividad_economica_id": 150,
+            "actividad_economica_desc": "Fabricación de otros productos de madera; fabricación de artículos de corcho, paja y materiales trenzables ",
+            "codigo_rev4": "1629",
+            "nivel": 3,
+            "padre_id": 146
+        },
+        {
+            "actividad_economica_id": 151,
+            "actividad_economica_desc": "Fabricación de papel y de productos de papel",
+            "codigo_rev4": "17",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 152,
+            "actividad_economica_desc": "Fabricación de papel y de productos de papel",
+            "codigo_rev4": "170",
+            "nivel": 2,
+            "padre_id": 151
+        },
+        {
+            "actividad_economica_id": 153,
+            "actividad_economica_desc": "Fabricación de pasta de madera, papel y cartón",
+            "codigo_rev4": "1701",
+            "nivel": 3,
+            "padre_id": 152
+        },
+        {
+            "actividad_economica_id": 154,
+            "actividad_economica_desc": "Fabricación de papel y cartón ondulado y de envases de papel y cartón ",
+            "codigo_rev4": "1702",
+            "nivel": 3,
+            "padre_id": 152
+        },
+        {
+            "actividad_economica_id": 155,
+            "actividad_economica_desc": "Fabricación de otros artículos de papel y cartón",
+            "codigo_rev4": "1709",
+            "nivel": 3,
+            "padre_id": 152
+        },
+        {
+            "actividad_economica_id": 156,
+            "actividad_economica_desc": "Impresión y reproducción de grabaciones ",
+            "codigo_rev4": "18",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 157,
+            "actividad_economica_desc": "Impresión y actividades de servicios relacionadas con la impresión ",
+            "codigo_rev4": "181",
+            "nivel": 2,
+            "padre_id": 156
+        },
+        {
+            "actividad_economica_id": 158,
+            "actividad_economica_desc": "Impresión ",
+            "codigo_rev4": "1811",
+            "nivel": 3,
+            "padre_id": 157
+        },
+        {
+            "actividad_economica_id": 159,
+            "actividad_economica_desc": "Actividades de servicios relacionadas con la impresión ",
+            "codigo_rev4": "1812",
+            "nivel": 3,
+            "padre_id": 157
+        },
+        {
+            "actividad_economica_id": 160,
+            "actividad_economica_desc": "Reproducción de grabaciones ",
+            "codigo_rev4": "182",
+            "nivel": 2,
+            "padre_id": 156
+        },
+        {
+            "actividad_economica_id": 161,
+            "actividad_economica_desc": "Reproducción de grabaciones ",
+            "codigo_rev4": "1820",
+            "nivel": 3,
+            "padre_id": 160
+        },
+        {
+            "actividad_economica_id": 162,
+            "actividad_economica_desc": "Fabricación de coque y productos de la refinación del petróleo",
+            "codigo_rev4": "19",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 163,
+            "actividad_economica_desc": "Fabricación de productos de hornos de coque ",
+            "codigo_rev4": "191",
+            "nivel": 2,
+            "padre_id": 162
+        },
+        {
+            "actividad_economica_id": 164,
+            "actividad_economica_desc": "Fabricación de productos de hornos de coque ",
+            "codigo_rev4": "1910",
+            "nivel": 3,
+            "padre_id": 163
+        },
+        {
+            "actividad_economica_id": 165,
+            "actividad_economica_desc": "Fabricación de productos de la refinación del petróleo",
+            "codigo_rev4": "192",
+            "nivel": 2,
+            "padre_id": 162
+        },
+        {
+            "actividad_economica_id": 166,
+            "actividad_economica_desc": "Fabricación de productos de la refinación del petróleo",
+            "codigo_rev4": "1920",
+            "nivel": 3,
+            "padre_id": 165
+        },
+        {
+            "actividad_economica_id": 167,
+            "actividad_economica_desc": "Fabricación de sustancias y productos químicos",
+            "codigo_rev4": "20",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 168,
+            "actividad_economica_desc": "Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho",
+            "codigo_rev4": "201",
+            "nivel": 2,
+            "padre_id": 167
+        },
+        {
+            "actividad_economica_id": 169,
+            "actividad_economica_desc": "Fabricación de sustancias químicas básicas ",
+            "codigo_rev4": "2011",
+            "nivel": 3,
+            "padre_id": 168
+        },
+        {
+            "actividad_economica_id": 170,
+            "actividad_economica_desc": "Fabricación de abonos y compuestos de nitrógeno ",
+            "codigo_rev4": "2012",
+            "nivel": 3,
+            "padre_id": 168
+        },
+        {
+            "actividad_economica_id": 171,
+            "actividad_economica_desc": "Fabricación de plásticos y caucho sintético en formas primarias ",
+            "codigo_rev4": "2013",
+            "nivel": 3,
+            "padre_id": 168
+        },
+        {
+            "actividad_economica_id": 172,
+            "actividad_economica_desc": "Fabricación de otros productos químicos ",
+            "codigo_rev4": "202",
+            "nivel": 2,
+            "padre_id": 167
+        },
+        {
+            "actividad_economica_id": 173,
+            "actividad_economica_desc": "Fabricación de plaguicidas y otros productos químicos de uso agropecuario",
+            "codigo_rev4": "2021",
+            "nivel": 3,
+            "padre_id": 172
+        },
+        {
+            "actividad_economica_id": 174,
+            "actividad_economica_desc": "Fabricación de pinturas, barnices y productos de revestimiento similares, tintas de imprenta y masillas",
+            "codigo_rev4": "2022",
+            "nivel": 3,
+            "padre_id": 172
+        },
+        {
+            "actividad_economica_id": 175,
+            "actividad_economica_desc": "Fabricación de jabones y detergentes, preparados para limpiar y pulir, perfumes y preparados de tocador ",
+            "codigo_rev4": "2023",
+            "nivel": 3,
+            "padre_id": 172
+        },
+        {
+            "actividad_economica_id": 176,
+            "actividad_economica_desc": "Fabricación de otros productos químicos n.c.p.",
+            "codigo_rev4": "2029",
+            "nivel": 3,
+            "padre_id": 172
+        },
+        {
+            "actividad_economica_id": 177,
+            "actividad_economica_desc": "Fabricación de fibras artificiales",
+            "codigo_rev4": "203",
+            "nivel": 2,
+            "padre_id": 167
+        },
+        {
+            "actividad_economica_id": 178,
+            "actividad_economica_desc": "Fabricación de fibras artificiales",
+            "codigo_rev4": "2030",
+            "nivel": 3,
+            "padre_id": 177
+        },
+        {
+            "actividad_economica_id": 179,
+            "actividad_economica_desc": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso",
+            "codigo_rev4": "21",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 180,
+            "actividad_economica_desc": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso",
+            "codigo_rev4": "210",
+            "nivel": 2,
+            "padre_id": 179
+        },
+        {
+            "actividad_economica_id": 181,
+            "actividad_economica_desc": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso",
+            "codigo_rev4": "2100",
+            "nivel": 3,
+            "padre_id": 180
+        },
+        {
+            "actividad_economica_id": 182,
+            "actividad_economica_desc": "Fabricación de productos de caucho y de plástico",
+            "codigo_rev4": "22",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 183,
+            "actividad_economica_desc": "Fabricación de productos de caucho ",
+            "codigo_rev4": "221",
+            "nivel": 2,
+            "padre_id": 182
+        },
+        {
+            "actividad_economica_id": 184,
+            "actividad_economica_desc": "Fabricación de cubiertas y cámaras de caucho; recauchutado y renovación de cubiertas de caucho",
+            "codigo_rev4": "2211",
+            "nivel": 3,
+            "padre_id": 183
+        },
+        {
+            "actividad_economica_id": 185,
+            "actividad_economica_desc": "Fabricación de otros productos de caucho",
+            "codigo_rev4": "2219",
+            "nivel": 3,
+            "padre_id": 183
+        },
+        {
+            "actividad_economica_id": 186,
+            "actividad_economica_desc": "Fabricación de productos de plástico ",
+            "codigo_rev4": "222",
+            "nivel": 2,
+            "padre_id": 182
+        },
+        {
+            "actividad_economica_id": 187,
+            "actividad_economica_desc": "Fabricación de productos de plástico ",
+            "codigo_rev4": "2220",
+            "nivel": 3,
+            "padre_id": 186
+        },
+        {
+            "actividad_economica_id": 188,
+            "actividad_economica_desc": "Fabricación de otros productos minerales no metálicos ",
+            "codigo_rev4": "23",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 189,
+            "actividad_economica_desc": "Fabricación de vidrio y productos de vidrio ",
+            "codigo_rev4": "231",
+            "nivel": 2,
+            "padre_id": 188
+        },
+        {
+            "actividad_economica_id": 190,
+            "actividad_economica_desc": "Fabricación de vidrio y productos de vidrio ",
+            "codigo_rev4": "2310",
+            "nivel": 3,
+            "padre_id": 189
+        },
+        {
+            "actividad_economica_id": 191,
+            "actividad_economica_desc": "Fabricación de productos minerales no metálicos n.c.p. ",
+            "codigo_rev4": "239",
+            "nivel": 2,
+            "padre_id": 188
+        },
+        {
+            "actividad_economica_id": 192,
+            "actividad_economica_desc": "Fabricación de productos refractarios",
+            "codigo_rev4": "2391",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 193,
+            "actividad_economica_desc": "Fabricación de materiales de construcción de arcilla ",
+            "codigo_rev4": "2392",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 194,
+            "actividad_economica_desc": "Fabricación de otros productos de porcelana y de cerámica ",
+            "codigo_rev4": "2393",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 195,
+            "actividad_economica_desc": "Fabricación de cemento, cal y yeso",
+            "codigo_rev4": "2394",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 196,
+            "actividad_economica_desc": "Fabricación de artículos de hormigón, cemento y yeso",
+            "codigo_rev4": "2395",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 197,
+            "actividad_economica_desc": "Corte, talla y acabado de la piedra ",
+            "codigo_rev4": "2396",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 198,
+            "actividad_economica_desc": "Fabricación de otros productos minerales no metálicos n.c.p.",
+            "codigo_rev4": "2399",
+            "nivel": 3,
+            "padre_id": 191
+        },
+        {
+            "actividad_economica_id": 199,
+            "actividad_economica_desc": "Fabricación de metales comunes",
+            "codigo_rev4": "24",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 200,
+            "actividad_economica_desc": "Industrias básicas de hierro y acero",
+            "codigo_rev4": "241",
+            "nivel": 2,
+            "padre_id": 199
+        },
+        {
+            "actividad_economica_id": 201,
+            "actividad_economica_desc": "Industrias básicas de hierro y acero",
+            "codigo_rev4": "2410",
+            "nivel": 3,
+            "padre_id": 200
+        },
+        {
+            "actividad_economica_id": 202,
+            "actividad_economica_desc": "Fabricación de productos primarios de metales preciosos y otros metales no ferrosos",
+            "codigo_rev4": "242",
+            "nivel": 2,
+            "padre_id": 199
+        },
+        {
+            "actividad_economica_id": 203,
+            "actividad_economica_desc": "Fabricación de productos primarios de metales preciosos y otros metales no ferrosos",
+            "codigo_rev4": "2420",
+            "nivel": 3,
+            "padre_id": 202
+        },
+        {
+            "actividad_economica_id": 204,
+            "actividad_economica_desc": "Fundición de metales ",
+            "codigo_rev4": "243",
+            "nivel": 2,
+            "padre_id": 199
+        },
+        {
+            "actividad_economica_id": 205,
+            "actividad_economica_desc": "Fundición de hierro y acero ",
+            "codigo_rev4": "2431",
+            "nivel": 3,
+            "padre_id": 204
+        },
+        {
+            "actividad_economica_id": 206,
+            "actividad_economica_desc": "Fundición de metales no ferrosos ",
+            "codigo_rev4": "2432",
+            "nivel": 3,
+            "padre_id": 204
+        },
+        {
+            "actividad_economica_id": 207,
+            "actividad_economica_desc": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo",
+            "codigo_rev4": "25",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 208,
+            "actividad_economica_desc": "Fabricación de productos metálicos para uso estructural, tanques, depósitos y recipientes de metal ",
+            "codigo_rev4": "251",
+            "nivel": 2,
+            "padre_id": 207
+        },
+        {
+            "actividad_economica_id": 209,
+            "actividad_economica_desc": "Fabricación de productos metálicos para uso estructural ",
+            "codigo_rev4": "2511",
+            "nivel": 3,
+            "padre_id": 208
+        },
+        {
+            "actividad_economica_id": 210,
+            "actividad_economica_desc": "Fabricación de tanques, depósitos y recipientes de metal",
+            "codigo_rev4": "2512",
+            "nivel": 3,
+            "padre_id": 208
+        },
+        {
+            "actividad_economica_id": 211,
+            "actividad_economica_desc": "Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central ",
+            "codigo_rev4": "2513",
+            "nivel": 3,
+            "padre_id": 208
+        },
+        {
+            "actividad_economica_id": 212,
+            "actividad_economica_desc": "Fabricación de armas y municiones ",
+            "codigo_rev4": "252",
+            "nivel": 2,
+            "padre_id": 207
+        },
+        {
+            "actividad_economica_id": 213,
+            "actividad_economica_desc": "Fabricación de armas y municiones ",
+            "codigo_rev4": "2520",
+            "nivel": 3,
+            "padre_id": 212
+        },
+        {
+            "actividad_economica_id": 214,
+            "actividad_economica_desc": "Fabricación de otros productos elaborados de metal; actividades de servicios de trabajo de metales",
+            "codigo_rev4": "259",
+            "nivel": 2,
+            "padre_id": 207
+        },
+        {
+            "actividad_economica_id": 215,
+            "actividad_economica_desc": "Forja, prensado, estampado y laminado de metales; pulvimetalurgia",
+            "codigo_rev4": "2591",
+            "nivel": 3,
+            "padre_id": 214
+        },
+        {
+            "actividad_economica_id": 216,
+            "actividad_economica_desc": "Tratamiento y revestimiento de metales; maquinado",
+            "codigo_rev4": "2592",
+            "nivel": 3,
+            "padre_id": 214
+        },
+        {
+            "actividad_economica_id": 217,
+            "actividad_economica_desc": "Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",
+            "codigo_rev4": "2593",
+            "nivel": 3,
+            "padre_id": 214
+        },
+        {
+            "actividad_economica_id": 218,
+            "actividad_economica_desc": "Fabricación de otros productos elaborados de metal n.c.p.",
+            "codigo_rev4": "2599",
+            "nivel": 3,
+            "padre_id": 214
+        },
+        {
+            "actividad_economica_id": 219,
+            "actividad_economica_desc": "Fabricación de productos de informática, de electrónica y de óptica",
+            "codigo_rev4": "26",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 220,
+            "actividad_economica_desc": "Fabricación de componentes y tableros electrónicos",
+            "codigo_rev4": "261",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 221,
+            "actividad_economica_desc": "Fabricación de componentes y tableros electrónicos",
+            "codigo_rev4": "2610",
+            "nivel": 3,
+            "padre_id": 220
+        },
+        {
+            "actividad_economica_id": 222,
+            "actividad_economica_desc": "Fabricación de ordenadores y equipo periférico",
+            "codigo_rev4": "262",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 223,
+            "actividad_economica_desc": "Fabricación de ordenadores y equipo periférico",
+            "codigo_rev4": "2620",
+            "nivel": 3,
+            "padre_id": 222
+        },
+        {
+            "actividad_economica_id": 224,
+            "actividad_economica_desc": "Fabricación de equipo de comunicaciones ",
+            "codigo_rev4": "263",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 225,
+            "actividad_economica_desc": "Fabricación de equipo de comunicaciones ",
+            "codigo_rev4": "2630",
+            "nivel": 3,
+            "padre_id": 224
+        },
+        {
+            "actividad_economica_id": 226,
+            "actividad_economica_desc": "Fabricación de aparatos electrónicos de consumo",
+            "codigo_rev4": "264",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 227,
+            "actividad_economica_desc": "Fabricación de aparatos electrónicos de consumo",
+            "codigo_rev4": "2640",
+            "nivel": 3,
+            "padre_id": 226
+        },
+        {
+            "actividad_economica_id": 228,
+            "actividad_economica_desc": "Fabricación de equipo de medición, prueba, navegación y control y de relojes",
+            "codigo_rev4": "265",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 229,
+            "actividad_economica_desc": "Fabricación de equipo de medición, prueba, navegación y control ",
+            "codigo_rev4": "2651",
+            "nivel": 3,
+            "padre_id": 228
+        },
+        {
+            "actividad_economica_id": 230,
+            "actividad_economica_desc": "Fabricación de relojes ",
+            "codigo_rev4": "2652",
+            "nivel": 3,
+            "padre_id": 228
+        },
+        {
+            "actividad_economica_id": 231,
+            "actividad_economica_desc": "Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico ",
+            "codigo_rev4": "266",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 232,
+            "actividad_economica_desc": "Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico ",
+            "codigo_rev4": "2660",
+            "nivel": 3,
+            "padre_id": 231
+        },
+        {
+            "actividad_economica_id": 233,
+            "actividad_economica_desc": "Fabricación de instrumentos ópticos y equipo fotográfico ",
+            "codigo_rev4": "267",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 234,
+            "actividad_economica_desc": "Fabricación de instrumentos ópticos y equipo fotográfico ",
+            "codigo_rev4": "2670",
+            "nivel": 3,
+            "padre_id": 233
+        },
+        {
+            "actividad_economica_id": 235,
+            "actividad_economica_desc": "Fabricación de soportes magnéticos y ópticos",
+            "codigo_rev4": "268",
+            "nivel": 2,
+            "padre_id": 219
+        },
+        {
+            "actividad_economica_id": 236,
+            "actividad_economica_desc": "Fabricación de soportes magnéticos y ópticos",
+            "codigo_rev4": "2680",
+            "nivel": 3,
+            "padre_id": 235
+        },
+        {
+            "actividad_economica_id": 237,
+            "actividad_economica_desc": "Fabricación de equipo eléctrico",
+            "codigo_rev4": "27",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 238,
+            "actividad_economica_desc": "Fabricación de motores, generadores y transformadores eléctricos y aparatos de distribución y control de la ",
+            "codigo_rev4": "271",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 239,
+            "actividad_economica_desc": "Fabricación de motores, generadores y transformadores eléctricos y aparatos de distribución y control de la ",
+            "codigo_rev4": "2710",
+            "nivel": 3,
+            "padre_id": 238
+        },
+        {
+            "actividad_economica_id": 240,
+            "actividad_economica_desc": "Fabricación de pilas, baterías y acumuladores",
+            "codigo_rev4": "272",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 241,
+            "actividad_economica_desc": "Fabricación de pilas, baterías y acumuladores",
+            "codigo_rev4": "2720",
+            "nivel": 3,
+            "padre_id": 240
+        },
+        {
+            "actividad_economica_id": 242,
+            "actividad_economica_desc": "Fabricación de cables y dispositivos de cableado ",
+            "codigo_rev4": "273",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 243,
+            "actividad_economica_desc": "Fabricación de cables de fibra óptica",
+            "codigo_rev4": "2731",
+            "nivel": 3,
+            "padre_id": 242
+        },
+        {
+            "actividad_economica_id": 244,
+            "actividad_economica_desc": "Fabricación de otros hilos y cables eléctricos ",
+            "codigo_rev4": "2732",
+            "nivel": 3,
+            "padre_id": 242
+        },
+        {
+            "actividad_economica_id": 245,
+            "actividad_economica_desc": "Fabricación de dispositivos de cableado ",
+            "codigo_rev4": "2733",
+            "nivel": 3,
+            "padre_id": 242
+        },
+        {
+            "actividad_economica_id": 246,
+            "actividad_economica_desc": "Fabricación de equipo eléctrico de iluminación",
+            "codigo_rev4": "274",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 247,
+            "actividad_economica_desc": "Fabricación de equipo eléctrico de iluminación",
+            "codigo_rev4": "2740",
+            "nivel": 3,
+            "padre_id": 246
+        },
+        {
+            "actividad_economica_id": 248,
+            "actividad_economica_desc": "Fabricación de aparatos de uso doméstico",
+            "codigo_rev4": "275",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 249,
+            "actividad_economica_desc": "Fabricación de aparatos de uso doméstico",
+            "codigo_rev4": "2750",
+            "nivel": 3,
+            "padre_id": 248
+        },
+        {
+            "actividad_economica_id": 250,
+            "actividad_economica_desc": "Fabricación de otros tipos de equipo eléctrico ",
+            "codigo_rev4": "279",
+            "nivel": 2,
+            "padre_id": 237
+        },
+        {
+            "actividad_economica_id": 251,
+            "actividad_economica_desc": "Fabricación de otros tipos de equipo eléctrico ",
+            "codigo_rev4": "2790",
+            "nivel": 3,
+            "padre_id": 250
+        },
+        {
+            "actividad_economica_id": 252,
+            "actividad_economica_desc": "Fabricación de maquinaria y equipo n.c.p.",
+            "codigo_rev4": "28",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 253,
+            "actividad_economica_desc": "Fabricación de maquinaria de uso general",
+            "codigo_rev4": "281",
+            "nivel": 2,
+            "padre_id": 252
+        },
+        {
+            "actividad_economica_id": 254,
+            "actividad_economica_desc": "Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas ",
+            "codigo_rev4": "2811",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 255,
+            "actividad_economica_desc": "Fabricación de equipo de propulsión de fluidos ",
+            "codigo_rev4": "2812",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 256,
+            "actividad_economica_desc": "Fabricación de otras bombas, compresores, grifos y válvulas",
+            "codigo_rev4": "2813",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 257,
+            "actividad_economica_desc": "Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión ",
+            "codigo_rev4": "2814",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 258,
+            "actividad_economica_desc": "Fabricación de hornos, hogares y quemadores",
+            "codigo_rev4": "2815",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 259,
+            "actividad_economica_desc": "Fabricación de equipo de elevación y manipulación ",
+            "codigo_rev4": "2816",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 260,
+            "actividad_economica_desc": "Fabricación de maquinaria y equipo de oficina (excepto ordenadores y equipo periférico)",
+            "codigo_rev4": "2817",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 261,
+            "actividad_economica_desc": "Fabricación de herramientas de mano motorizadas",
+            "codigo_rev4": "2818",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 262,
+            "actividad_economica_desc": "Fabricación de otros tipos de maquinaria de uso general ",
+            "codigo_rev4": "2819",
+            "nivel": 3,
+            "padre_id": 253
+        },
+        {
+            "actividad_economica_id": 263,
+            "actividad_economica_desc": "Fabricación de maquinaria de uso especial",
+            "codigo_rev4": "282",
+            "nivel": 2,
+            "padre_id": 252
+        },
+        {
+            "actividad_economica_id": 264,
+            "actividad_economica_desc": "Fabricación de maquinaria agropecuaria y forestal",
+            "codigo_rev4": "2821",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 265,
+            "actividad_economica_desc": "Fabricación de maquinaria para la conformación de metales y de máquinas herramienta",
+            "codigo_rev4": "2822",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 266,
+            "actividad_economica_desc": "Fabricación de maquinaria metalúrgica",
+            "codigo_rev4": "2823",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 267,
+            "actividad_economica_desc": "Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción ",
+            "codigo_rev4": "2824",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 268,
+            "actividad_economica_desc": "Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco ",
+            "codigo_rev4": "2825",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 269,
+            "actividad_economica_desc": "Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",
+            "codigo_rev4": "2826",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 270,
+            "actividad_economica_desc": "Fabricación de otros tipos de maquinaria de uso especial ",
+            "codigo_rev4": "2829",
+            "nivel": 3,
+            "padre_id": 263
+        },
+        {
+            "actividad_economica_id": 271,
+            "actividad_economica_desc": "Fabricación de vehículos automotores, remolques y semirremolques ",
+            "codigo_rev4": "29",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 272,
+            "actividad_economica_desc": "Fabricación de vehículos automotores",
+            "codigo_rev4": "291",
+            "nivel": 2,
+            "padre_id": 271
+        },
+        {
+            "actividad_economica_id": 273,
+            "actividad_economica_desc": "Fabricación de vehículos automotores",
+            "codigo_rev4": "2910",
+            "nivel": 3,
+            "padre_id": 272
+        },
+        {
+            "actividad_economica_id": 274,
+            "actividad_economica_desc": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques ",
+            "codigo_rev4": "292",
+            "nivel": 2,
+            "padre_id": 271
+        },
+        {
+            "actividad_economica_id": 275,
+            "actividad_economica_desc": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques ",
+            "codigo_rev4": "2920",
+            "nivel": 3,
+            "padre_id": 274
+        },
+        {
+            "actividad_economica_id": 276,
+            "actividad_economica_desc": "Fabricación de partes, piezas y accesorios para vehículos automotores ",
+            "codigo_rev4": "293",
+            "nivel": 2,
+            "padre_id": 271
+        },
+        {
+            "actividad_economica_id": 277,
+            "actividad_economica_desc": "Fabricación de partes, piezas y accesorios para vehículos automotores ",
+            "codigo_rev4": "2930",
+            "nivel": 3,
+            "padre_id": 276
+        },
+        {
+            "actividad_economica_id": 278,
+            "actividad_economica_desc": "Fabricación de otro equipo de transporte",
+            "codigo_rev4": "30",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 279,
+            "actividad_economica_desc": "Construcción de buques y otras embarcaciones",
+            "codigo_rev4": "301",
+            "nivel": 2,
+            "padre_id": 278
+        },
+        {
+            "actividad_economica_id": 280,
+            "actividad_economica_desc": "Construcción de buques y estructuras flotantes",
+            "codigo_rev4": "3011",
+            "nivel": 3,
+            "padre_id": 279
+        },
+        {
+            "actividad_economica_id": 281,
+            "actividad_economica_desc": "Construcción de embarcaciones de recreo y de deporte",
+            "codigo_rev4": "3012",
+            "nivel": 3,
+            "padre_id": 279
+        },
+        {
+            "actividad_economica_id": 282,
+            "actividad_economica_desc": "Fabricación de locomotoras y material rodante",
+            "codigo_rev4": "302",
+            "nivel": 2,
+            "padre_id": 278
+        },
+        {
+            "actividad_economica_id": 283,
+            "actividad_economica_desc": "Fabricación de locomotoras y material rodante",
+            "codigo_rev4": "3020",
+            "nivel": 3,
+            "padre_id": 282
+        },
+        {
+            "actividad_economica_id": 284,
+            "actividad_economica_desc": "Fabricación de aeronaves, naves espaciales y maquinaria conexa",
+            "codigo_rev4": "303",
+            "nivel": 2,
+            "padre_id": 278
+        },
+        {
+            "actividad_economica_id": 285,
+            "actividad_economica_desc": "Fabricación de aeronaves, naves espaciales y maquinaria conexa",
+            "codigo_rev4": "3030",
+            "nivel": 3,
+            "padre_id": 284
+        },
+        {
+            "actividad_economica_id": 286,
+            "actividad_economica_desc": "Fabricación de vehículos militares de combate",
+            "codigo_rev4": "304",
+            "nivel": 2,
+            "padre_id": 278
+        },
+        {
+            "actividad_economica_id": 287,
+            "actividad_economica_desc": "Fabricación de vehículos militares de combate",
+            "codigo_rev4": "3040",
+            "nivel": 3,
+            "padre_id": 286
+        },
+        {
+            "actividad_economica_id": 288,
+            "actividad_economica_desc": "Fabricación de equipo de transporte n.c.p.",
+            "codigo_rev4": "309",
+            "nivel": 2,
+            "padre_id": 278
+        },
+        {
+            "actividad_economica_id": 289,
+            "actividad_economica_desc": "Fabricación de motocicletas ",
+            "codigo_rev4": "3091",
+            "nivel": 3,
+            "padre_id": 288
+        },
+        {
+            "actividad_economica_id": 290,
+            "actividad_economica_desc": "Fabricación de bicicletas y de sillones de ruedas para inválidos",
+            "codigo_rev4": "3092",
+            "nivel": 3,
+            "padre_id": 288
+        },
+        {
+            "actividad_economica_id": 291,
+            "actividad_economica_desc": "Fabricación de otros tipos de equipo de transporte n.c.p. ",
+            "codigo_rev4": "3099",
+            "nivel": 3,
+            "padre_id": 288
+        },
+        {
+            "actividad_economica_id": 292,
+            "actividad_economica_desc": "Fabricación de muebles ",
+            "codigo_rev4": "31",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 293,
+            "actividad_economica_desc": "Fabricación de muebles ",
+            "codigo_rev4": "310",
+            "nivel": 2,
+            "padre_id": 292
+        },
+        {
+            "actividad_economica_id": 294,
+            "actividad_economica_desc": "Fabricación de muebles ",
+            "codigo_rev4": "3100",
+            "nivel": 3,
+            "padre_id": 293
+        },
+        {
+            "actividad_economica_id": 295,
+            "actividad_economica_desc": "Otras industrias manufactureras ",
+            "codigo_rev4": "32",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 296,
+            "actividad_economica_desc": "Fabricación de joyas, bisutería y artículos conexos ",
+            "codigo_rev4": "321",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 297,
+            "actividad_economica_desc": "Fabricación de joyas y artículos conexos",
+            "codigo_rev4": "3211",
+            "nivel": 3,
+            "padre_id": 296
+        },
+        {
+            "actividad_economica_id": 298,
+            "actividad_economica_desc": "Fabricación de bisutería y artículos conexos",
+            "codigo_rev4": "3212",
+            "nivel": 3,
+            "padre_id": 296
+        },
+        {
+            "actividad_economica_id": 299,
+            "actividad_economica_desc": "Fabricación de instrumentos de música ",
+            "codigo_rev4": "322",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 300,
+            "actividad_economica_desc": "Fabricación de instrumentos de música ",
+            "codigo_rev4": "3220",
+            "nivel": 3,
+            "padre_id": 299
+        },
+        {
+            "actividad_economica_id": 301,
+            "actividad_economica_desc": "Fabricación de artículos de deporte ",
+            "codigo_rev4": "323",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 302,
+            "actividad_economica_desc": "Fabricación de artículos de deporte ",
+            "codigo_rev4": "3230",
+            "nivel": 3,
+            "padre_id": 301
+        },
+        {
+            "actividad_economica_id": 303,
+            "actividad_economica_desc": "Fabricación de juegos y juguetes ",
+            "codigo_rev4": "324",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 304,
+            "actividad_economica_desc": "Fabricación de juegos y juguetes ",
+            "codigo_rev4": "3240",
+            "nivel": 3,
+            "padre_id": 303
+        },
+        {
+            "actividad_economica_id": 305,
+            "actividad_economica_desc": "Fabricación de instrumentos y materiales médicos y odontológicos",
+            "codigo_rev4": "325",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 306,
+            "actividad_economica_desc": "Fabricación de instrumentos y materiales médicos y odontológicos",
+            "codigo_rev4": "3250",
+            "nivel": 3,
+            "padre_id": 305
+        },
+        {
+            "actividad_economica_id": 307,
+            "actividad_economica_desc": "Otras industrias manufactureras n.c.p.",
+            "codigo_rev4": "329",
+            "nivel": 2,
+            "padre_id": 295
+        },
+        {
+            "actividad_economica_id": 308,
+            "actividad_economica_desc": "Otras industrias manufactureras n.c.p.",
+            "codigo_rev4": "3290",
+            "nivel": 3,
+            "padre_id": 307
+        },
+        {
+            "actividad_economica_id": 309,
+            "actividad_economica_desc": "Reparación e instalación de maquinaria y equipo ",
+            "codigo_rev4": "33",
+            "nivel": 1,
+            "padre_id": 86
+        },
+        {
+            "actividad_economica_id": 310,
+            "actividad_economica_desc": "Reparación de productos elaborados de metal, maquinaria y equipo ",
+            "codigo_rev4": "331",
+            "nivel": 2,
+            "padre_id": 309
+        },
+        {
+            "actividad_economica_id": 311,
+            "actividad_economica_desc": "Reparación de productos elaborados de metal",
+            "codigo_rev4": "3311",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 312,
+            "actividad_economica_desc": "Reparación de maquinaria ",
+            "codigo_rev4": "3312",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 313,
+            "actividad_economica_desc": "Reparación de equipo electrónico y óptico",
+            "codigo_rev4": "3313",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 314,
+            "actividad_economica_desc": "Reparación de equipo eléctrico",
+            "codigo_rev4": "3314",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 315,
+            "actividad_economica_desc": "Reparación de equipo de transporte, excepto vehículos automotores",
+            "codigo_rev4": "3315",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 316,
+            "actividad_economica_desc": "Reparación de otros tipos de equipo",
+            "codigo_rev4": "3319",
+            "nivel": 3,
+            "padre_id": 310
+        },
+        {
+            "actividad_economica_id": 317,
+            "actividad_economica_desc": "Instalación de maquinaria y equipo industriales",
+            "codigo_rev4": "332",
+            "nivel": 2,
+            "padre_id": 309
+        },
+        {
+            "actividad_economica_id": 318,
+            "actividad_economica_desc": "Instalación de maquinaria y equipo industriales",
+            "codigo_rev4": "3320",
+            "nivel": 3,
+            "padre_id": 317
+        },
+        {
+            "actividad_economica_id": 319,
+            "actividad_economica_desc": " SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO",
+            "codigo_rev4": "D",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 320,
+            "actividad_economica_desc": "Suministro de electricidad, gas, vapor y aire acondicionado",
+            "codigo_rev4": "35",
+            "nivel": 1,
+            "padre_id": 319
+        },
+        {
+            "actividad_economica_id": 321,
+            "actividad_economica_desc": "Generación, transmisión y distribución de energía eléctrica ",
+            "codigo_rev4": "351",
+            "nivel": 2,
+            "padre_id": 320
+        },
+        {
+            "actividad_economica_id": 322,
+            "actividad_economica_desc": "Generación, transmisión y distribución de energía eléctrica ",
+            "codigo_rev4": "3510",
+            "nivel": 3,
+            "padre_id": 321
+        },
+        {
+            "actividad_economica_id": 323,
+            "actividad_economica_desc": "Fabricación de gas; distribución de combustibles gaseosos por tuberías ",
+            "codigo_rev4": "352",
+            "nivel": 2,
+            "padre_id": 320
+        },
+        {
+            "actividad_economica_id": 324,
+            "actividad_economica_desc": "Fabricación de gas; distribución de combustibles gaseosos por tuberías ",
+            "codigo_rev4": "3520",
+            "nivel": 3,
+            "padre_id": 323
+        },
+        {
+            "actividad_economica_id": 325,
+            "actividad_economica_desc": "Suministro de vapor y de aire acondicionado ",
+            "codigo_rev4": "353",
+            "nivel": 2,
+            "padre_id": 320
+        },
+        {
+            "actividad_economica_id": 326,
+            "actividad_economica_desc": "Suministro de vapor y de aire acondicionado ",
+            "codigo_rev4": "3530",
+            "nivel": 3,
+            "padre_id": 325
+        },
+        {
+            "actividad_economica_id": 327,
+            "actividad_economica_desc": "SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO",
+            "codigo_rev4": "E",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 328,
+            "actividad_economica_desc": "Captación, tratamiento y distribución de agua",
+            "codigo_rev4": "36",
+            "nivel": 1,
+            "padre_id": 327
+        },
+        {
+            "actividad_economica_id": 329,
+            "actividad_economica_desc": "Captación, tratamiento y distribución de agua",
+            "codigo_rev4": "360",
+            "nivel": 2,
+            "padre_id": 328
+        },
+        {
+            "actividad_economica_id": 330,
+            "actividad_economica_desc": "Captación, tratamiento y distribución de agua",
+            "codigo_rev4": "3600",
+            "nivel": 3,
+            "padre_id": 329
+        },
+        {
+            "actividad_economica_id": 331,
+            "actividad_economica_desc": "Evacuación de aguas residuales",
+            "codigo_rev4": "37",
+            "nivel": 1,
+            "padre_id": 327
+        },
+        {
+            "actividad_economica_id": 332,
+            "actividad_economica_desc": "Evacuación de aguas residuales",
+            "codigo_rev4": "370",
+            "nivel": 2,
+            "padre_id": 331
+        },
+        {
+            "actividad_economica_id": 333,
+            "actividad_economica_desc": "Evacuación de aguas residuales",
+            "codigo_rev4": "3700",
+            "nivel": 3,
+            "padre_id": 332
+        },
+        {
+            "actividad_economica_id": 334,
+            "actividad_economica_desc": "Recogida, tratamiento y eliminación de desechos; recuperación de materiales ",
+            "codigo_rev4": "38",
+            "nivel": 1,
+            "padre_id": 327
+        },
+        {
+            "actividad_economica_id": 335,
+            "actividad_economica_desc": "Recogida de desechos ",
+            "codigo_rev4": "381",
+            "nivel": 2,
+            "padre_id": 334
+        },
+        {
+            "actividad_economica_id": 336,
+            "actividad_economica_desc": "Recogida de desechos no peligrosos ",
+            "codigo_rev4": "3811",
+            "nivel": 3,
+            "padre_id": 335
+        },
+        {
+            "actividad_economica_id": 337,
+            "actividad_economica_desc": "Recogida de desechos peligrosos",
+            "codigo_rev4": "3812",
+            "nivel": 3,
+            "padre_id": 335
+        },
+        {
+            "actividad_economica_id": 338,
+            "actividad_economica_desc": "Tratamiento y eliminación de desechos ",
+            "codigo_rev4": "382",
+            "nivel": 2,
+            "padre_id": 334
+        },
+        {
+            "actividad_economica_id": 339,
+            "actividad_economica_desc": "Tratamiento y eliminación de desechos no peligrosos ",
+            "codigo_rev4": "3821",
+            "nivel": 3,
+            "padre_id": 338
+        },
+        {
+            "actividad_economica_id": 340,
+            "actividad_economica_desc": "Tratamiento y eliminación de desechos peligrosos",
+            "codigo_rev4": "3822",
+            "nivel": 3,
+            "padre_id": 338
+        },
+        {
+            "actividad_economica_id": 341,
+            "actividad_economica_desc": "Recuperación de materiales ",
+            "codigo_rev4": "383",
+            "nivel": 2,
+            "padre_id": 334
+        },
+        {
+            "actividad_economica_id": 342,
+            "actividad_economica_desc": "Recuperación de materiales ",
+            "codigo_rev4": "3830",
+            "nivel": 3,
+            "padre_id": 341
+        },
+        {
+            "actividad_economica_id": 343,
+            "actividad_economica_desc": "Actividades de descontaminación y otros servicios de gestión de desechos",
+            "codigo_rev4": "39",
+            "nivel": 1,
+            "padre_id": 327
+        },
+        {
+            "actividad_economica_id": 344,
+            "actividad_economica_desc": "Actividades de descontaminación y otros servicios de gestión de desechos",
+            "codigo_rev4": "390",
+            "nivel": 2,
+            "padre_id": 343
+        },
+        {
+            "actividad_economica_id": 345,
+            "actividad_economica_desc": "Actividades de descontaminación y otros servicios de gestión de desechos",
+            "codigo_rev4": "3900",
+            "nivel": 3,
+            "padre_id": 344
+        },
+        {
+            "actividad_economica_id": 346,
+            "actividad_economica_desc": "CONSTRUCCIÓN",
+            "codigo_rev4": "F",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 347,
+            "actividad_economica_desc": "Construcción de edificios ",
+            "codigo_rev4": "41",
+            "nivel": 1,
+            "padre_id": 346
+        },
+        {
+            "actividad_economica_id": 348,
+            "actividad_economica_desc": "Construcción de edificios ",
+            "codigo_rev4": "410",
+            "nivel": 2,
+            "padre_id": 347
+        },
+        {
+            "actividad_economica_id": 349,
+            "actividad_economica_desc": "Construcción de edificios ",
+            "codigo_rev4": "4100",
+            "nivel": 3,
+            "padre_id": 348
+        },
+        {
+            "actividad_economica_id": 350,
+            "actividad_economica_desc": "Obras de ingeniería civil",
+            "codigo_rev4": "42",
+            "nivel": 1,
+            "padre_id": 346
+        },
+        {
+            "actividad_economica_id": 351,
+            "actividad_economica_desc": "Construcción de carreteras y vías de ferrocarril ",
+            "codigo_rev4": "421",
+            "nivel": 2,
+            "padre_id": 350
+        },
+        {
+            "actividad_economica_id": 352,
+            "actividad_economica_desc": "Construcción de carreteras y vías de ferrocarril ",
+            "codigo_rev4": "4210",
+            "nivel": 3,
+            "padre_id": 351
+        },
+        {
+            "actividad_economica_id": 353,
+            "actividad_economica_desc": "Construcción de proyectos de servicio público",
+            "codigo_rev4": "422",
+            "nivel": 2,
+            "padre_id": 350
+        },
+        {
+            "actividad_economica_id": 354,
+            "actividad_economica_desc": "Construcción de proyectos de servicio público",
+            "codigo_rev4": "4220",
+            "nivel": 3,
+            "padre_id": 353
+        },
+        {
+            "actividad_economica_id": 355,
+            "actividad_economica_desc": "Construcción de otras obras de ingeniería civil ",
+            "codigo_rev4": "429",
+            "nivel": 2,
+            "padre_id": 350
+        },
+        {
+            "actividad_economica_id": 356,
+            "actividad_economica_desc": "Construcción de otras obras de ingeniería civil ",
+            "codigo_rev4": "4290",
+            "nivel": 3,
+            "padre_id": 355
+        },
+        {
+            "actividad_economica_id": 357,
+            "actividad_economica_desc": "Actividades especializadas de construcción",
+            "codigo_rev4": "43",
+            "nivel": 1,
+            "padre_id": 346
+        },
+        {
+            "actividad_economica_id": 358,
+            "actividad_economica_desc": "Demolición y preparación del terreno ",
+            "codigo_rev4": "431",
+            "nivel": 2,
+            "padre_id": 357
+        },
+        {
+            "actividad_economica_id": 359,
+            "actividad_economica_desc": "Demolición ",
+            "codigo_rev4": "4311",
+            "nivel": 3,
+            "padre_id": 358
+        },
+        {
+            "actividad_economica_id": 360,
+            "actividad_economica_desc": "Preparación del terreno ",
+            "codigo_rev4": "4312",
+            "nivel": 3,
+            "padre_id": 358
+        },
+        {
+            "actividad_economica_id": 361,
+            "actividad_economica_desc": "Instalaciones eléctricas y de fontanería y otras instalaciones para obras de construcción",
+            "codigo_rev4": "432",
+            "nivel": 2,
+            "padre_id": 357
+        },
+        {
+            "actividad_economica_id": 362,
+            "actividad_economica_desc": "Instalaciones eléctricas",
+            "codigo_rev4": "4321",
+            "nivel": 3,
+            "padre_id": 361
+        },
+        {
+            "actividad_economica_id": 363,
+            "actividad_economica_desc": "Instalaciones de fontanería, calefacción y aire acondicionado ",
+            "codigo_rev4": "4322",
+            "nivel": 3,
+            "padre_id": 361
+        },
+        {
+            "actividad_economica_id": 364,
+            "actividad_economica_desc": "Otras instalaciones para obras de construcción",
+            "codigo_rev4": "4329",
+            "nivel": 3,
+            "padre_id": 361
+        },
+        {
+            "actividad_economica_id": 365,
+            "actividad_economica_desc": "Terminación y acabado de edificios ",
+            "codigo_rev4": "433",
+            "nivel": 2,
+            "padre_id": 357
+        },
+        {
+            "actividad_economica_id": 366,
+            "actividad_economica_desc": "Terminación y acabado de edificios ",
+            "codigo_rev4": "4330",
+            "nivel": 3,
+            "padre_id": 365
+        },
+        {
+            "actividad_economica_id": 367,
+            "actividad_economica_desc": "Otras actividades especializadas de construcción ",
+            "codigo_rev4": "439",
+            "nivel": 2,
+            "padre_id": 357
+        },
+        {
+            "actividad_economica_id": 368,
+            "actividad_economica_desc": "Otras actividades especializadas de construcción ",
+            "codigo_rev4": "4390",
+            "nivel": 3,
+            "padre_id": 367
+        },
+        {
+            "actividad_economica_id": 369,
+            "actividad_economica_desc": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+            "codigo_rev4": "G",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 370,
+            "actividad_economica_desc": "Comercio al por mayor y al por menor y reparación de vehículos automotores y motocicletas ",
+            "codigo_rev4": "45",
+            "nivel": 1,
+            "padre_id": 369
+        },
+        {
+            "actividad_economica_id": 371,
+            "actividad_economica_desc": "Venta de vehículos automotores",
+            "codigo_rev4": "451",
+            "nivel": 2,
+            "padre_id": 370
+        },
+        {
+            "actividad_economica_id": 372,
+            "actividad_economica_desc": "Venta de vehículos automotores",
+            "codigo_rev4": "4510",
+            "nivel": 3,
+            "padre_id": 371
+        },
+        {
+            "actividad_economica_id": 373,
+            "actividad_economica_desc": "Mantenimiento y reparación de vehículos automotores",
+            "codigo_rev4": "452",
+            "nivel": 2,
+            "padre_id": 370
+        },
+        {
+            "actividad_economica_id": 374,
+            "actividad_economica_desc": "Mantenimiento y reparación de vehículos automotores",
+            "codigo_rev4": "4520",
+            "nivel": 3,
+            "padre_id": 373
+        },
+        {
+            "actividad_economica_id": 375,
+            "actividad_economica_desc": "Venta de partes, piezas y accesorios para vehículos automotores ",
+            "codigo_rev4": "453",
+            "nivel": 2,
+            "padre_id": 370
+        },
+        {
+            "actividad_economica_id": 376,
+            "actividad_economica_desc": "Venta de partes, piezas y accesorios para vehículos automotores ",
+            "codigo_rev4": "4530",
+            "nivel": 3,
+            "padre_id": 375
+        },
+        {
+            "actividad_economica_id": 377,
+            "actividad_economica_desc": "Venta, mantenimiento y reparación de motocicletas y sus partes, piezas y accesorios",
+            "codigo_rev4": "454",
+            "nivel": 2,
+            "padre_id": 370
+        },
+        {
+            "actividad_economica_id": 378,
+            "actividad_economica_desc": "Venta, mantenimiento y reparación de motocicletas y sus partes, piezas y accesorios",
+            "codigo_rev4": "4540",
+            "nivel": 3,
+            "padre_id": 377
+        },
+        {
+            "actividad_economica_id": 379,
+            "actividad_economica_desc": "Comercio al por mayor, excepto el de vehículos automotores y motocicletas ",
+            "codigo_rev4": "46",
+            "nivel": 1,
+            "padre_id": 369
+        },
+        {
+            "actividad_economica_id": 380,
+            "actividad_economica_desc": "Venta al por mayor a cambio de una retribución o por contrata",
+            "codigo_rev4": "461",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 381,
+            "actividad_economica_desc": "Venta al por mayor a cambio de una retribución o por contrata",
+            "codigo_rev4": "4610",
+            "nivel": 3,
+            "padre_id": 380
+        },
+        {
+            "actividad_economica_id": 382,
+            "actividad_economica_desc": "Venta al por mayor de materias primas agropecuarias y animales vivos ",
+            "codigo_rev4": "462",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 383,
+            "actividad_economica_desc": "Venta al por mayor de materias primas agropecuarias y animales vivos ",
+            "codigo_rev4": "4620",
+            "nivel": 3,
+            "padre_id": 382
+        },
+        {
+            "actividad_economica_id": 384,
+            "actividad_economica_desc": "Venta al por mayor de alimentos, bebidas y tabaco ",
+            "codigo_rev4": "463",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 385,
+            "actividad_economica_desc": "Venta al por mayor de alimentos, bebidas y tabaco ",
+            "codigo_rev4": "4630",
+            "nivel": 3,
+            "padre_id": 384
+        },
+        {
+            "actividad_economica_id": 386,
+            "actividad_economica_desc": "Venta al por mayor de enseres domésticos ",
+            "codigo_rev4": "464",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 387,
+            "actividad_economica_desc": "Venta al por mayor de productos textiles, prendas de vestir y calzado",
+            "codigo_rev4": "4641",
+            "nivel": 3,
+            "padre_id": 386
+        },
+        {
+            "actividad_economica_id": 388,
+            "actividad_economica_desc": "Venta al por mayor de otros enseres domésticos",
+            "codigo_rev4": "4649",
+            "nivel": 3,
+            "padre_id": 386
+        },
+        {
+            "actividad_economica_id": 389,
+            "actividad_economica_desc": "Venta al por mayor de maquinaria, equipo y materiales ",
+            "codigo_rev4": "465",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 390,
+            "actividad_economica_desc": "Venta al por mayor de ordenadores, equipo periférico y programas de informática",
+            "codigo_rev4": "4651",
+            "nivel": 3,
+            "padre_id": 389
+        },
+        {
+            "actividad_economica_id": 391,
+            "actividad_economica_desc": "Venta al por mayor de equipo, partes y piezas electrónicos y de telecomunicaciones ",
+            "codigo_rev4": "4652",
+            "nivel": 3,
+            "padre_id": 389
+        },
+        {
+            "actividad_economica_id": 392,
+            "actividad_economica_desc": "Venta al por mayor de maquinaria, equipo y materiales agropecuarios",
+            "codigo_rev4": "4653",
+            "nivel": 3,
+            "padre_id": 389
+        },
+        {
+            "actividad_economica_id": 393,
+            "actividad_economica_desc": "Venta al por mayor de otros tipos de maquinaria y equipo ",
+            "codigo_rev4": "4659",
+            "nivel": 3,
+            "padre_id": 389
+        },
+        {
+            "actividad_economica_id": 394,
+            "actividad_economica_desc": "Otras actividades de venta al por mayor especializada",
+            "codigo_rev4": "466",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 395,
+            "actividad_economica_desc": "Venta al por mayor de combustibles sólidos, líquidos y gaseosos y productos conexos ",
+            "codigo_rev4": "4661",
+            "nivel": 3,
+            "padre_id": 394
+        },
+        {
+            "actividad_economica_id": 396,
+            "actividad_economica_desc": "Venta al por mayor de metales y minerales metalíferos ",
+            "codigo_rev4": "4662",
+            "nivel": 3,
+            "padre_id": 394
+        },
+        {
+            "actividad_economica_id": 397,
+            "actividad_economica_desc": "Venta al por mayor de materiales de construcción, artículos de ferretería y equipo y materiales de",
+            "codigo_rev4": "4663",
+            "nivel": 3,
+            "padre_id": 394
+        },
+        {
+            "actividad_economica_id": 398,
+            "actividad_economica_desc": "Venta al por mayor de desperdicios, desechos y chatarra y otros productos n.c.p. ",
+            "codigo_rev4": "4669",
+            "nivel": 3,
+            "padre_id": 394
+        },
+        {
+            "actividad_economica_id": 399,
+            "actividad_economica_desc": "Venta al por mayor no especializada",
+            "codigo_rev4": "469",
+            "nivel": 2,
+            "padre_id": 379
+        },
+        {
+            "actividad_economica_id": 400,
+            "actividad_economica_desc": "Venta al por mayor no especializada",
+            "codigo_rev4": "4690",
+            "nivel": 3,
+            "padre_id": 399
+        },
+        {
+            "actividad_economica_id": 401,
+            "actividad_economica_desc": "Comercio al por menor, excepto el de vehículos automotores y motocicletas ",
+            "codigo_rev4": "47",
+            "nivel": 1,
+            "padre_id": 369
+        },
+        {
+            "actividad_economica_id": 402,
+            "actividad_economica_desc": "Venta al por menor en comercios no especializados",
+            "codigo_rev4": "471",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 403,
+            "actividad_economica_desc": "Venta al por menor en comercios no especializados con predominio de la venta de alimentos, bebidas",
+            "codigo_rev4": "4711",
+            "nivel": 3,
+            "padre_id": 402
+        },
+        {
+            "actividad_economica_id": 404,
+            "actividad_economica_desc": "Otras actividades de venta al por menor en comercios no especializados ",
+            "codigo_rev4": "4719",
+            "nivel": 3,
+            "padre_id": 402
+        },
+        {
+            "actividad_economica_id": 405,
+            "actividad_economica_desc": "Venta al por menor de alimentos, bebidas y tabaco en comercios especializados",
+            "codigo_rev4": "472",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 406,
+            "actividad_economica_desc": "Venta al por menor de alimentos en comercios especializados ",
+            "codigo_rev4": "4721",
+            "nivel": 3,
+            "padre_id": 405
+        },
+        {
+            "actividad_economica_id": 407,
+            "actividad_economica_desc": "Venta al por menor de bebidas en comercios especializados ",
+            "codigo_rev4": "4722",
+            "nivel": 3,
+            "padre_id": 405
+        },
+        {
+            "actividad_economica_id": 408,
+            "actividad_economica_desc": "Venta al por menor de productos de tabaco en comercios especializados ",
+            "codigo_rev4": "4723",
+            "nivel": 3,
+            "padre_id": 405
+        },
+        {
+            "actividad_economica_id": 409,
+            "actividad_economica_desc": "Venta al por menor de combustibles para vehículos automotores en comercios especializados",
+            "codigo_rev4": "473",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 410,
+            "actividad_economica_desc": "Venta al por menor de combustibles para vehículos automotores en comercios especializados",
+            "codigo_rev4": "4730",
+            "nivel": 3,
+            "padre_id": 409
+        },
+        {
+            "actividad_economica_id": 411,
+            "actividad_economica_desc": "Venta al por menor de equipo de información y de comunicaciones en comercios especializados",
+            "codigo_rev4": "474",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 412,
+            "actividad_economica_desc": "Venta al por menor de ordenadores, equipo periférico, programas de informática y equipo de telecomunicaciones ",
+            "codigo_rev4": "4741",
+            "nivel": 3,
+            "padre_id": 411
+        },
+        {
+            "actividad_economica_id": 413,
+            "actividad_economica_desc": "Venta al por menor de equipo de sonido y de video en comercios especializados",
+            "codigo_rev4": "4742",
+            "nivel": 3,
+            "padre_id": 411
+        },
+        {
+            "actividad_economica_id": 414,
+            "actividad_economica_desc": "Venta al por menor de otros enseres domésticos en comercios especializados ",
+            "codigo_rev4": "475",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 415,
+            "actividad_economica_desc": "Venta al por menor de productos textiles en comercios especializados",
+            "codigo_rev4": "4751",
+            "nivel": 3,
+            "padre_id": 414
+        },
+        {
+            "actividad_economica_id": 416,
+            "actividad_economica_desc": "Venta al por menor de artículos de ferretería, pinturas y productos de vidrio en comercios especializados",
+            "codigo_rev4": "4752",
+            "nivel": 3,
+            "padre_id": 414
+        },
+        {
+            "actividad_economica_id": 417,
+            "actividad_economica_desc": "Venta al por menor de tapices, alfombras y cubrimientos para paredes y pisos en comercios especializados",
+            "codigo_rev4": "4753",
+            "nivel": 3,
+            "padre_id": 414
+        },
+        {
+            "actividad_economica_id": 418,
+            "actividad_economica_desc": "Venta al por menor de aparatos eléctricos de uso doméstico, muebles, equipo de iluminación y otros",
+            "codigo_rev4": "4759",
+            "nivel": 3,
+            "padre_id": 414
+        },
+        {
+            "actividad_economica_id": 419,
+            "actividad_economica_desc": "Venta al por menor de productos culturales y recreativos en comercios especializados",
+            "codigo_rev4": "476",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 420,
+            "actividad_economica_desc": "Venta al por menor de libros, periódicos y artículos de papelería en comercios especializados",
+            "codigo_rev4": "4761",
+            "nivel": 3,
+            "padre_id": 419
+        },
+        {
+            "actividad_economica_id": 421,
+            "actividad_economica_desc": "Venta al por menor de grabaciones de música y de vídeo en comercios especializados",
+            "codigo_rev4": "4762",
+            "nivel": 3,
+            "padre_id": 419
+        },
+        {
+            "actividad_economica_id": 422,
+            "actividad_economica_desc": "Venta al por menor de equipo de deporte en comercios especializados ",
+            "codigo_rev4": "4763",
+            "nivel": 3,
+            "padre_id": 419
+        },
+        {
+            "actividad_economica_id": 423,
+            "actividad_economica_desc": "Venta al por menor de juegos y juguetes en comercios especializados ",
+            "codigo_rev4": "4764",
+            "nivel": 3,
+            "padre_id": 419
+        },
+        {
+            "actividad_economica_id": 424,
+            "actividad_economica_desc": "Venta al por menor de otros productos en comercios especializados",
+            "codigo_rev4": "477",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 425,
+            "actividad_economica_desc": "Venta al por menor de prendas de vestir, calzado y artículos de cuero en comercios especializados",
+            "codigo_rev4": "4771",
+            "nivel": 3,
+            "padre_id": 424
+        },
+        {
+            "actividad_economica_id": 426,
+            "actividad_economica_desc": "Venta al por menor de productos farmacéuticos y médicos, cosméticos y artículos de tocador en comercios",
+            "codigo_rev4": "4772",
+            "nivel": 3,
+            "padre_id": 424
+        },
+        {
+            "actividad_economica_id": 427,
+            "actividad_economica_desc": "Venta al por menor de otros productos nuevos en comercios especializados ",
+            "codigo_rev4": "4773",
+            "nivel": 3,
+            "padre_id": 424
+        },
+        {
+            "actividad_economica_id": 428,
+            "actividad_economica_desc": "Venta al por menor de artículos de segunda mano ",
+            "codigo_rev4": "4774",
+            "nivel": 3,
+            "padre_id": 424
+        },
+        {
+            "actividad_economica_id": 429,
+            "actividad_economica_desc": "Venta al por menor en puestos de venta y mercados",
+            "codigo_rev4": "478",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 430,
+            "actividad_economica_desc": "Venta al por menor de alimentos, bebidas y tabaco en puestos de venta y mercados ",
+            "codigo_rev4": "4781",
+            "nivel": 3,
+            "padre_id": 429
+        },
+        {
+            "actividad_economica_id": 431,
+            "actividad_economica_desc": "Venta al por menor de productos textiles, prendas de vestir y calzado en puestos de venta",
+            "codigo_rev4": "4782",
+            "nivel": 3,
+            "padre_id": 429
+        },
+        {
+            "actividad_economica_id": 432,
+            "actividad_economica_desc": "Venta al por menor de otros productos en puestos de venta y mercados ",
+            "codigo_rev4": "4789",
+            "nivel": 3,
+            "padre_id": 429
+        },
+        {
+            "actividad_economica_id": 433,
+            "actividad_economica_desc": "Venta al por menor no realizada en comercios, puestos de venta o mercados ",
+            "codigo_rev4": "479",
+            "nivel": 2,
+            "padre_id": 401
+        },
+        {
+            "actividad_economica_id": 434,
+            "actividad_economica_desc": "Venta al por menor por correo y por Internet ",
+            "codigo_rev4": "4791",
+            "nivel": 3,
+            "padre_id": 433
+        },
+        {
+            "actividad_economica_id": 435,
+            "actividad_economica_desc": "Otras actividades de venta al por menor no realizadas en comercios, puestos de venta o mercados",
+            "codigo_rev4": "4799",
+            "nivel": 3,
+            "padre_id": 433
+        },
+        {
+            "actividad_economica_id": 436,
+            "actividad_economica_desc": "SERVICIO DE TRANSPORTE Y ALMACENAMIENTO ",
+            "codigo_rev4": "H",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 437,
+            "actividad_economica_desc": "Transporte por vía terrestre y transporte por tuberías",
+            "codigo_rev4": "49",
+            "nivel": 1,
+            "padre_id": 436
+        },
+        {
+            "actividad_economica_id": 438,
+            "actividad_economica_desc": "Transporte por ferrocarril ",
+            "codigo_rev4": "491",
+            "nivel": 2,
+            "padre_id": 437
+        },
+        {
+            "actividad_economica_id": 439,
+            "actividad_economica_desc": "Transporte interurbano de pasajeros por ferrocarril",
+            "codigo_rev4": "4911",
+            "nivel": 3,
+            "padre_id": 438
+        },
+        {
+            "actividad_economica_id": 440,
+            "actividad_economica_desc": "Transporte de carga por ferrocarril ",
+            "codigo_rev4": "4912",
+            "nivel": 3,
+            "padre_id": 438
+        },
+        {
+            "actividad_economica_id": 441,
+            "actividad_economica_desc": "Otras actividades de transporte por vía terrestre ",
+            "codigo_rev4": "492",
+            "nivel": 2,
+            "padre_id": 437
+        },
+        {
+            "actividad_economica_id": 442,
+            "actividad_economica_desc": "Transporte urbano y suburbano de pasajeros por vía terrestre ",
+            "codigo_rev4": "4921",
+            "nivel": 3,
+            "padre_id": 441
+        },
+        {
+            "actividad_economica_id": 443,
+            "actividad_economica_desc": "Otras actividades de transporte por vía terrestre ",
+            "codigo_rev4": "4922",
+            "nivel": 3,
+            "padre_id": 441
+        },
+        {
+            "actividad_economica_id": 444,
+            "actividad_economica_desc": "Transporte de carga por carretera ",
+            "codigo_rev4": "4923",
+            "nivel": 3,
+            "padre_id": 441
+        },
+        {
+            "actividad_economica_id": 445,
+            "actividad_economica_desc": "Transporte por tuberías ",
+            "codigo_rev4": "493",
+            "nivel": 2,
+            "padre_id": 437
+        },
+        {
+            "actividad_economica_id": 446,
+            "actividad_economica_desc": "Transporte por tuberías ",
+            "codigo_rev4": "4930",
+            "nivel": 3,
+            "padre_id": 445
+        },
+        {
+            "actividad_economica_id": 447,
+            "actividad_economica_desc": "Transporte por vía acuática",
+            "codigo_rev4": "50",
+            "nivel": 1,
+            "padre_id": 436
+        },
+        {
+            "actividad_economica_id": 448,
+            "actividad_economica_desc": "Transporte marítimo y de cabotaje ",
+            "codigo_rev4": "501",
+            "nivel": 2,
+            "padre_id": 447
+        },
+        {
+            "actividad_economica_id": 449,
+            "actividad_economica_desc": "Transporte de pasajeros marítimo y de cabotaje ",
+            "codigo_rev4": "5011",
+            "nivel": 3,
+            "padre_id": 448
+        },
+        {
+            "actividad_economica_id": 450,
+            "actividad_economica_desc": "Transporte de carga marítimo y de cabotaje ",
+            "codigo_rev4": "5012",
+            "nivel": 3,
+            "padre_id": 448
+        },
+        {
+            "actividad_economica_id": 451,
+            "actividad_economica_desc": "Transporte por vías de navegación interiores",
+            "codigo_rev4": "502",
+            "nivel": 2,
+            "padre_id": 447
+        },
+        {
+            "actividad_economica_id": 452,
+            "actividad_economica_desc": "Transporte de pasajeros por vías de navegación interiores",
+            "codigo_rev4": "5021",
+            "nivel": 3,
+            "padre_id": 451
+        },
+        {
+            "actividad_economica_id": 453,
+            "actividad_economica_desc": "Transporte de carga por vías de navegación interiores",
+            "codigo_rev4": "5022",
+            "nivel": 3,
+            "padre_id": 451
+        },
+        {
+            "actividad_economica_id": 454,
+            "actividad_economica_desc": "Transporte por vía aérea",
+            "codigo_rev4": "51",
+            "nivel": 1,
+            "padre_id": 436
+        },
+        {
+            "actividad_economica_id": 455,
+            "actividad_economica_desc": "Transporte de pasajeros por vía aérea",
+            "codigo_rev4": "511",
+            "nivel": 2,
+            "padre_id": 454
+        },
+        {
+            "actividad_economica_id": 456,
+            "actividad_economica_desc": "Transporte de pasajeros por vía aérea",
+            "codigo_rev4": "5110",
+            "nivel": 3,
+            "padre_id": 455
+        },
+        {
+            "actividad_economica_id": 457,
+            "actividad_economica_desc": "Transporte de carga por vía aérea",
+            "codigo_rev4": "512",
+            "nivel": 2,
+            "padre_id": 454
+        },
+        {
+            "actividad_economica_id": 458,
+            "actividad_economica_desc": "Transporte de carga por vía aérea",
+            "codigo_rev4": "5120",
+            "nivel": 3,
+            "padre_id": 457
+        },
+        {
+            "actividad_economica_id": 459,
+            "actividad_economica_desc": "Almacenamiento y actividades de apoyo al transporte ",
+            "codigo_rev4": "52",
+            "nivel": 1,
+            "padre_id": 436
+        },
+        {
+            "actividad_economica_id": 460,
+            "actividad_economica_desc": "Almacenamiento y depósito ",
+            "codigo_rev4": "521",
+            "nivel": 2,
+            "padre_id": 459
+        },
+        {
+            "actividad_economica_id": 461,
+            "actividad_economica_desc": "Almacenamiento y depósito ",
+            "codigo_rev4": "5210",
+            "nivel": 3,
+            "padre_id": 460
+        },
+        {
+            "actividad_economica_id": 462,
+            "actividad_economica_desc": "Actividades de apoyo al transporte ",
+            "codigo_rev4": "522",
+            "nivel": 2,
+            "padre_id": 459
+        },
+        {
+            "actividad_economica_id": 463,
+            "actividad_economica_desc": "Actividades de servicios vinculadas al transporte terrestre ",
+            "codigo_rev4": "5221",
+            "nivel": 3,
+            "padre_id": 462
+        },
+        {
+            "actividad_economica_id": 464,
+            "actividad_economica_desc": "Actividades de servicios vinculadas al transporte acuático ",
+            "codigo_rev4": "5222",
+            "nivel": 3,
+            "padre_id": 462
+        },
+        {
+            "actividad_economica_id": 465,
+            "actividad_economica_desc": "Actividades de servicios vinculadas al transporte aéreo ",
+            "codigo_rev4": "5223",
+            "nivel": 3,
+            "padre_id": 462
+        },
+        {
+            "actividad_economica_id": 466,
+            "actividad_economica_desc": "Manipulación de la carga",
+            "codigo_rev4": "5224",
+            "nivel": 3,
+            "padre_id": 462
+        },
+        {
+            "actividad_economica_id": 467,
+            "actividad_economica_desc": "Otras actividades de apoyo al transporte",
+            "codigo_rev4": "5229",
+            "nivel": 3,
+            "padre_id": 462
+        },
+        {
+            "actividad_economica_id": 468,
+            "actividad_economica_desc": "Actividades postales y de mensajería ",
+            "codigo_rev4": "53",
+            "nivel": 1,
+            "padre_id": 436
+        },
+        {
+            "actividad_economica_id": 469,
+            "actividad_economica_desc": "Actividades postales",
+            "codigo_rev4": "531",
+            "nivel": 2,
+            "padre_id": 468
+        },
+        {
+            "actividad_economica_id": 470,
+            "actividad_economica_desc": "Actividades postales",
+            "codigo_rev4": "5310",
+            "nivel": 3,
+            "padre_id": 469
+        },
+        {
+            "actividad_economica_id": 471,
+            "actividad_economica_desc": "Actividades de mensajería ",
+            "codigo_rev4": "532",
+            "nivel": 2,
+            "padre_id": 468
+        },
+        {
+            "actividad_economica_id": 472,
+            "actividad_economica_desc": "Actividades de mensajería ",
+            "codigo_rev4": "5320",
+            "nivel": 3,
+            "padre_id": 471
+        },
+        {
+            "actividad_economica_id": 473,
+            "actividad_economica_desc": "SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA",
+            "codigo_rev4": "I",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 474,
+            "actividad_economica_desc": "Actividades de alojamiento ",
+            "codigo_rev4": "55",
+            "nivel": 1,
+            "padre_id": 473
+        },
+        {
+            "actividad_economica_id": 475,
+            "actividad_economica_desc": "Actividades de alojamiento para estancias cortas",
+            "codigo_rev4": "551",
+            "nivel": 2,
+            "padre_id": 474
+        },
+        {
+            "actividad_economica_id": 476,
+            "actividad_economica_desc": "Actividades de alojamiento para estancias cortas",
+            "codigo_rev4": "5510",
+            "nivel": 3,
+            "padre_id": 475
+        },
+        {
+            "actividad_economica_id": 477,
+            "actividad_economica_desc": "Actividades de campamentos, parques de vehículos recreativos y parques de caravanas ",
+            "codigo_rev4": "552",
+            "nivel": 2,
+            "padre_id": 474
+        },
+        {
+            "actividad_economica_id": 478,
+            "actividad_economica_desc": "Actividades de campamentos, parques de vehículos recreativos y parques de caravanas ",
+            "codigo_rev4": "5520",
+            "nivel": 3,
+            "padre_id": 477
+        },
+        {
+            "actividad_economica_id": 479,
+            "actividad_economica_desc": "Otras actividades de alojamiento",
+            "codigo_rev4": "559",
+            "nivel": 2,
+            "padre_id": 474
+        },
+        {
+            "actividad_economica_id": 480,
+            "actividad_economica_desc": "Otras actividades de alojamiento",
+            "codigo_rev4": "5590",
+            "nivel": 3,
+            "padre_id": 479
+        },
+        {
+            "actividad_economica_id": 481,
+            "actividad_economica_desc": "Actividades de servicio de comidas y bebidas ",
+            "codigo_rev4": "56",
+            "nivel": 1,
+            "padre_id": 473
+        },
+        {
+            "actividad_economica_id": 482,
+            "actividad_economica_desc": "Actividades de restaurantes y de servicio móvil de comidas ",
+            "codigo_rev4": "561",
+            "nivel": 2,
+            "padre_id": 481
+        },
+        {
+            "actividad_economica_id": 483,
+            "actividad_economica_desc": "Actividades de restaurantes y de servicio móvil de comidas ",
+            "codigo_rev4": "5610",
+            "nivel": 3,
+            "padre_id": 482
+        },
+        {
+            "actividad_economica_id": 484,
+            "actividad_economica_desc": "Suministro de comidas por encargo y otras actividades de servicio de comidas",
+            "codigo_rev4": "562",
+            "nivel": 2,
+            "padre_id": 481
+        },
+        {
+            "actividad_economica_id": 485,
+            "actividad_economica_desc": "Suministro de comidas por encargo ",
+            "codigo_rev4": "5621",
+            "nivel": 3,
+            "padre_id": 484
+        },
+        {
+            "actividad_economica_id": 486,
+            "actividad_economica_desc": "Otras actividades de servicio de comidas",
+            "codigo_rev4": "5629",
+            "nivel": 3,
+            "padre_id": 484
+        },
+        {
+            "actividad_economica_id": 487,
+            "actividad_economica_desc": "Actividades de servicio de bebidas ",
+            "codigo_rev4": "563",
+            "nivel": 2,
+            "padre_id": 481
+        },
+        {
+            "actividad_economica_id": 488,
+            "actividad_economica_desc": "Actividades de servicio de bebidas ",
+            "codigo_rev4": "5630",
+            "nivel": 3,
+            "padre_id": 487
+        },
+        {
+            "actividad_economica_id": 489,
+            "actividad_economica_desc": "INFORMACIÓN Y COMUNICACIONES",
+            "codigo_rev4": "J",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 490,
+            "actividad_economica_desc": "Actividades de edición ",
+            "codigo_rev4": "58",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 491,
+            "actividad_economica_desc": "Edición de libros y publicaciones periódicas y otras actividades de edición ",
+            "codigo_rev4": "581",
+            "nivel": 2,
+            "padre_id": 490
+        },
+        {
+            "actividad_economica_id": 492,
+            "actividad_economica_desc": "Edición de libros ",
+            "codigo_rev4": "5811",
+            "nivel": 3,
+            "padre_id": 491
+        },
+        {
+            "actividad_economica_id": 493,
+            "actividad_economica_desc": "Edición de directorios y listas de correo ",
+            "codigo_rev4": "5812",
+            "nivel": 3,
+            "padre_id": 491
+        },
+        {
+            "actividad_economica_id": 494,
+            "actividad_economica_desc": "Edición de periódicos, revistas y otras publicaciones periódicas",
+            "codigo_rev4": "5813",
+            "nivel": 3,
+            "padre_id": 491
+        },
+        {
+            "actividad_economica_id": 495,
+            "actividad_economica_desc": "Otras actividades de edición",
+            "codigo_rev4": "5819",
+            "nivel": 3,
+            "padre_id": 491
+        },
+        {
+            "actividad_economica_id": 496,
+            "actividad_economica_desc": "Edición de programas informáticos",
+            "codigo_rev4": "582",
+            "nivel": 2,
+            "padre_id": 490
+        },
+        {
+            "actividad_economica_id": 497,
+            "actividad_economica_desc": "Edición de programas informáticos",
+            "codigo_rev4": "5820",
+            "nivel": 3,
+            "padre_id": 496
+        },
+        {
+            "actividad_economica_id": 498,
+            "actividad_economica_desc": "Actividades de producción de películas cinematográficas, vídeos y programas de televisión, grabación de sonido",
+            "codigo_rev4": "59",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 499,
+            "actividad_economica_desc": "Actividades de producción de películas cinematográficas, vídeos y programas de televisión ",
+            "codigo_rev4": "591",
+            "nivel": 2,
+            "padre_id": 498
+        },
+        {
+            "actividad_economica_id": 500,
+            "actividad_economica_desc": "Actividades de producción de películas cinematográficas, vídeos y programas de televisión ",
+            "codigo_rev4": "5911",
+            "nivel": 3,
+            "padre_id": 499
+        },
+        {
+            "actividad_economica_id": 501,
+            "actividad_economica_desc": "Actividades de postproducción de películas cinematográficas, vídeos y programas de televisión ",
+            "codigo_rev4": "5912",
+            "nivel": 3,
+            "padre_id": 499
+        },
+        {
+            "actividad_economica_id": 502,
+            "actividad_economica_desc": "Actividades de distribución de películas cinematográficas, vídeos y programas de televisión ",
+            "codigo_rev4": "5913",
+            "nivel": 3,
+            "padre_id": 499
+        },
+        {
+            "actividad_economica_id": 503,
+            "actividad_economica_desc": "Actividades de exhibición de películas cinematográficas y cintas de vídeo",
+            "codigo_rev4": "5914",
+            "nivel": 3,
+            "padre_id": 499
+        },
+        {
+            "actividad_economica_id": 504,
+            "actividad_economica_desc": "Actividades de grabación de sonido y edición de música ",
+            "codigo_rev4": "592",
+            "nivel": 2,
+            "padre_id": 498
+        },
+        {
+            "actividad_economica_id": 505,
+            "actividad_economica_desc": "Actividades de grabación de sonido y edición de música ",
+            "codigo_rev4": "5920",
+            "nivel": 3,
+            "padre_id": 504
+        },
+        {
+            "actividad_economica_id": 506,
+            "actividad_economica_desc": "Actividades de programación y transmisión ",
+            "codigo_rev4": "60",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 507,
+            "actividad_economica_desc": "Transmisiones de radio ",
+            "codigo_rev4": "601",
+            "nivel": 2,
+            "padre_id": 506
+        },
+        {
+            "actividad_economica_id": 508,
+            "actividad_economica_desc": "Transmisiones de radio ",
+            "codigo_rev4": "6010",
+            "nivel": 3,
+            "padre_id": 507
+        },
+        {
+            "actividad_economica_id": 509,
+            "actividad_economica_desc": "Programación y transmisiones de televisión ",
+            "codigo_rev4": "602",
+            "nivel": 2,
+            "padre_id": 506
+        },
+        {
+            "actividad_economica_id": 510,
+            "actividad_economica_desc": "Programación y transmisiones de televisión ",
+            "codigo_rev4": "6020",
+            "nivel": 3,
+            "padre_id": 509
+        },
+        {
+            "actividad_economica_id": 511,
+            "actividad_economica_desc": "Telecomunicaciones ",
+            "codigo_rev4": "61",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 512,
+            "actividad_economica_desc": "Actividades de telecomunicaciones alámbricas",
+            "codigo_rev4": "611",
+            "nivel": 2,
+            "padre_id": 511
+        },
+        {
+            "actividad_economica_id": 513,
+            "actividad_economica_desc": "Actividades de telecomunicaciones alámbricas",
+            "codigo_rev4": "6110",
+            "nivel": 3,
+            "padre_id": 512
+        },
+        {
+            "actividad_economica_id": 514,
+            "actividad_economica_desc": "Actividades de telecomunicaciones inalámbricas",
+            "codigo_rev4": "612",
+            "nivel": 2,
+            "padre_id": 511
+        },
+        {
+            "actividad_economica_id": 515,
+            "actividad_economica_desc": "Actividades de telecomunicaciones inalámbricas",
+            "codigo_rev4": "6120",
+            "nivel": 3,
+            "padre_id": 514
+        },
+        {
+            "actividad_economica_id": 516,
+            "actividad_economica_desc": "Actividades de telecomunicaciones por satélite ",
+            "codigo_rev4": "613",
+            "nivel": 2,
+            "padre_id": 511
+        },
+        {
+            "actividad_economica_id": 517,
+            "actividad_economica_desc": "Actividades de telecomunicaciones por satélite ",
+            "codigo_rev4": "6130",
+            "nivel": 3,
+            "padre_id": 516
+        },
+        {
+            "actividad_economica_id": 518,
+            "actividad_economica_desc": "Otras actividades de telecomunicaciones",
+            "codigo_rev4": "619",
+            "nivel": 2,
+            "padre_id": 511
+        },
+        {
+            "actividad_economica_id": 519,
+            "actividad_economica_desc": "Otras actividades de telecomunicaciones",
+            "codigo_rev4": "6190",
+            "nivel": 3,
+            "padre_id": 518
+        },
+        {
+            "actividad_economica_id": 520,
+            "actividad_economica_desc": "Programación informática, consultoría de informática y actividades conexas",
+            "codigo_rev4": "62",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 521,
+            "actividad_economica_desc": "Programación informática, consultoría de informática y actividades conexas",
+            "codigo_rev4": "620",
+            "nivel": 2,
+            "padre_id": 520
+        },
+        {
+            "actividad_economica_id": 522,
+            "actividad_economica_desc": "Programación informática",
+            "codigo_rev4": "6201",
+            "nivel": 3,
+            "padre_id": 521
+        },
+        {
+            "actividad_economica_id": 523,
+            "actividad_economica_desc": "Consultoría de informática y gestión de instalaciones informáticas",
+            "codigo_rev4": "6202",
+            "nivel": 3,
+            "padre_id": 521
+        },
+        {
+            "actividad_economica_id": 524,
+            "actividad_economica_desc": "Otras actividades de tecnología de la información y de servicios informáticos ",
+            "codigo_rev4": "6209",
+            "nivel": 3,
+            "padre_id": 521
+        },
+        {
+            "actividad_economica_id": 525,
+            "actividad_economica_desc": "Actividades de servicios de información ",
+            "codigo_rev4": "63",
+            "nivel": 1,
+            "padre_id": 489
+        },
+        {
+            "actividad_economica_id": 526,
+            "actividad_economica_desc": "Procesamiento de datos, hospedaje y actividades conexas; portales web ",
+            "codigo_rev4": "631",
+            "nivel": 2,
+            "padre_id": 525
+        },
+        {
+            "actividad_economica_id": 527,
+            "actividad_economica_desc": "Procesamiento de datos, hospedaje y actividades conexas ",
+            "codigo_rev4": "6311",
+            "nivel": 3,
+            "padre_id": 526
+        },
+        {
+            "actividad_economica_id": 528,
+            "actividad_economica_desc": "Portales web",
+            "codigo_rev4": "6312",
+            "nivel": 3,
+            "padre_id": 526
+        },
+        {
+            "actividad_economica_id": 529,
+            "actividad_economica_desc": "Otras actividades de servicios de información",
+            "codigo_rev4": "639",
+            "nivel": 2,
+            "padre_id": 525
+        },
+        {
+            "actividad_economica_id": 530,
+            "actividad_economica_desc": "Actividades de agencias de noticias ",
+            "codigo_rev4": "6391",
+            "nivel": 3,
+            "padre_id": 529
+        },
+        {
+            "actividad_economica_id": 531,
+            "actividad_economica_desc": "Otras actividades de servicios de información n.c.p. ",
+            "codigo_rev4": "6399",
+            "nivel": 3,
+            "padre_id": 529
+        },
+        {
+            "actividad_economica_id": 532,
+            "actividad_economica_desc": " INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS",
+            "codigo_rev4": "K",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 533,
+            "actividad_economica_desc": "Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",
+            "codigo_rev4": "64",
+            "nivel": 1,
+            "padre_id": 532
+        },
+        {
+            "actividad_economica_id": 534,
+            "actividad_economica_desc": "Intermediación monetaria",
+            "codigo_rev4": "641",
+            "nivel": 2,
+            "padre_id": 533
+        },
+        {
+            "actividad_economica_id": 535,
+            "actividad_economica_desc": "Banca central",
+            "codigo_rev4": "6411",
+            "nivel": 3,
+            "padre_id": 534
+        },
+        {
+            "actividad_economica_id": 536,
+            "actividad_economica_desc": "Otros tipos de intermediación monetaria ",
+            "codigo_rev4": "6419",
+            "nivel": 3,
+            "padre_id": 534
+        },
+        {
+            "actividad_economica_id": 537,
+            "actividad_economica_desc": "Actividades de sociedades de cartera ",
+            "codigo_rev4": "642",
+            "nivel": 2,
+            "padre_id": 533
+        },
+        {
+            "actividad_economica_id": 538,
+            "actividad_economica_desc": "Actividades de sociedades de cartera ",
+            "codigo_rev4": "6420",
+            "nivel": 3,
+            "padre_id": 537
+        },
+        {
+            "actividad_economica_id": 539,
+            "actividad_economica_desc": "Fondos y sociedades de inversión y entidades financieras similares ",
+            "codigo_rev4": "643",
+            "nivel": 2,
+            "padre_id": 533
+        },
+        {
+            "actividad_economica_id": 540,
+            "actividad_economica_desc": "Fondos y sociedades de inversión y entidades financieras similares ",
+            "codigo_rev4": "6430",
+            "nivel": 3,
+            "padre_id": 539
+        },
+        {
+            "actividad_economica_id": 541,
+            "actividad_economica_desc": "Otras actividades de servicios financieros, excepto las de seguros y fondos de pensiones ",
+            "codigo_rev4": "649",
+            "nivel": 2,
+            "padre_id": 533
+        },
+        {
+            "actividad_economica_id": 542,
+            "actividad_economica_desc": "Arrendamiento financiero",
+            "codigo_rev4": "6491",
+            "nivel": 3,
+            "padre_id": 541
+        },
+        {
+            "actividad_economica_id": 543,
+            "actividad_economica_desc": "Otras actividades de concesión de crédito",
+            "codigo_rev4": "6492",
+            "nivel": 3,
+            "padre_id": 541
+        },
+        {
+            "actividad_economica_id": 544,
+            "actividad_economica_desc": "Otras actividades de servicios financieros, excepto las de seguros y fondos de pensiones, n.c.p.",
+            "codigo_rev4": "6499",
+            "nivel": 3,
+            "padre_id": 541
+        },
+        {
+            "actividad_economica_id": 545,
+            "actividad_economica_desc": "Seguros, reaseguros y fondos de pensiones, excepto planes de seguridad social de afiliación obligatoria",
+            "codigo_rev4": "65",
+            "nivel": 1,
+            "padre_id": 532
+        },
+        {
+            "actividad_economica_id": 546,
+            "actividad_economica_desc": "Seguros ",
+            "codigo_rev4": "651",
+            "nivel": 2,
+            "padre_id": 545
+        },
+        {
+            "actividad_economica_id": 547,
+            "actividad_economica_desc": "Seguros de vida ",
+            "codigo_rev4": "6511",
+            "nivel": 3,
+            "padre_id": 546
+        },
+        {
+            "actividad_economica_id": 548,
+            "actividad_economica_desc": "Seguros generales",
+            "codigo_rev4": "6512",
+            "nivel": 3,
+            "padre_id": 546
+        },
+        {
+            "actividad_economica_id": 549,
+            "actividad_economica_desc": "Reaseguros ",
+            "codigo_rev4": "652",
+            "nivel": 2,
+            "padre_id": 545
+        },
+        {
+            "actividad_economica_id": 550,
+            "actividad_economica_desc": "Reaseguros ",
+            "codigo_rev4": "6520",
+            "nivel": 3,
+            "padre_id": 549
+        },
+        {
+            "actividad_economica_id": 551,
+            "actividad_economica_desc": "Fondos de pensiones ",
+            "codigo_rev4": "653",
+            "nivel": 2,
+            "padre_id": 545
+        },
+        {
+            "actividad_economica_id": 552,
+            "actividad_economica_desc": "Fondos de pensiones ",
+            "codigo_rev4": "6530",
+            "nivel": 3,
+            "padre_id": 551
+        },
+        {
+            "actividad_economica_id": 553,
+            "actividad_economica_desc": "Actividades auxiliares de las actividades de servicios financieros",
+            "codigo_rev4": "66",
+            "nivel": 1,
+            "padre_id": 532
+        },
+        {
+            "actividad_economica_id": 554,
+            "actividad_economica_desc": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y fondos de pensiones",
+            "codigo_rev4": "661",
+            "nivel": 2,
+            "padre_id": 553
+        },
+        {
+            "actividad_economica_id": 555,
+            "actividad_economica_desc": "Administración de mercados financieros",
+            "codigo_rev4": "6611",
+            "nivel": 3,
+            "padre_id": 554
+        },
+        {
+            "actividad_economica_id": 556,
+            "actividad_economica_desc": "Corretaje de valores y de contratos de productos básicos ",
+            "codigo_rev4": "6612",
+            "nivel": 3,
+            "padre_id": 554
+        },
+        {
+            "actividad_economica_id": 557,
+            "actividad_economica_desc": "Otras actividades auxiliares de las actividades de servicios financieros ",
+            "codigo_rev4": "6619",
+            "nivel": 3,
+            "padre_id": 554
+        },
+        {
+            "actividad_economica_id": 558,
+            "actividad_economica_desc": "Actividades auxiliares de las actividades de seguros y fondos de pensiones ",
+            "codigo_rev4": "662",
+            "nivel": 2,
+            "padre_id": 553
+        },
+        {
+            "actividad_economica_id": 559,
+            "actividad_economica_desc": "Evaluación de riesgos y daños ",
+            "codigo_rev4": "6621",
+            "nivel": 3,
+            "padre_id": 558
+        },
+        {
+            "actividad_economica_id": 560,
+            "actividad_economica_desc": "Actividades de agentes y corredores de seguros ",
+            "codigo_rev4": "6622",
+            "nivel": 3,
+            "padre_id": 558
+        },
+        {
+            "actividad_economica_id": 561,
+            "actividad_economica_desc": "Otras actividades auxiliares de las actividades de seguros y fondos de pensiones",
+            "codigo_rev4": "6629",
+            "nivel": 3,
+            "padre_id": 558
+        },
+        {
+            "actividad_economica_id": 562,
+            "actividad_economica_desc": "Actividades de gestión de fondos ",
+            "codigo_rev4": "663",
+            "nivel": 2,
+            "padre_id": 553
+        },
+        {
+            "actividad_economica_id": 563,
+            "actividad_economica_desc": "Actividades de gestión de fondos ",
+            "codigo_rev4": "6630",
+            "nivel": 3,
+            "padre_id": 562
+        },
+        {
+            "actividad_economica_id": 564,
+            "actividad_economica_desc": "SERVICIOS INMOBILIARIOS",
+            "codigo_rev4": "L",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 565,
+            "actividad_economica_desc": "Actividades inmobiliarias",
+            "codigo_rev4": "68",
+            "nivel": 1,
+            "padre_id": 564
+        },
+        {
+            "actividad_economica_id": 566,
+            "actividad_economica_desc": "Actividades inmobiliarias realizadas con bienes propios o arrendados",
+            "codigo_rev4": "681",
+            "nivel": 2,
+            "padre_id": 565
+        },
+        {
+            "actividad_economica_id": 567,
+            "actividad_economica_desc": "Actividades inmobiliarias realizadas con bienes propios o arrendados",
+            "codigo_rev4": "6810",
+            "nivel": 3,
+            "padre_id": 566
+        },
+        {
+            "actividad_economica_id": 568,
+            "actividad_economica_desc": "Actividades inmobiliarias realizadas a cambio de una retribución o por contrata ",
+            "codigo_rev4": "682",
+            "nivel": 2,
+            "padre_id": 565
+        },
+        {
+            "actividad_economica_id": 569,
+            "actividad_economica_desc": "Actividades inmobiliarias realizadas a cambio de una retribución o por contrata ",
+            "codigo_rev4": "6820",
+            "nivel": 3,
+            "padre_id": 568
+        },
+        {
+            "actividad_economica_id": 570,
+            "actividad_economica_desc": " SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+            "codigo_rev4": "M",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 571,
+            "actividad_economica_desc": "Actividades jurídicas y de contabilidad ",
+            "codigo_rev4": "69",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 572,
+            "actividad_economica_desc": "Actividades jurídicas",
+            "codigo_rev4": "691",
+            "nivel": 2,
+            "padre_id": 571
+        },
+        {
+            "actividad_economica_id": 573,
+            "actividad_economica_desc": "Actividades jurídicas",
+            "codigo_rev4": "6910",
+            "nivel": 3,
+            "padre_id": 572
+        },
+        {
+            "actividad_economica_id": 574,
+            "actividad_economica_desc": "Actividades de contabilidad, teneduría de libros y auditoría; consultoría fiscal",
+            "codigo_rev4": "692",
+            "nivel": 2,
+            "padre_id": 571
+        },
+        {
+            "actividad_economica_id": 575,
+            "actividad_economica_desc": "Actividades de contabilidad, teneduría de libros y auditoría; consultoría fiscal",
+            "codigo_rev4": "6920",
+            "nivel": 3,
+            "padre_id": 574
+        },
+        {
+            "actividad_economica_id": 576,
+            "actividad_economica_desc": "Actividades de oficinas principales; actividades de consultoría de gestión ",
+            "codigo_rev4": "70",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 577,
+            "actividad_economica_desc": "Actividades de oficinas principales",
+            "codigo_rev4": "701",
+            "nivel": 2,
+            "padre_id": 576
+        },
+        {
+            "actividad_economica_id": 578,
+            "actividad_economica_desc": "Actividades de oficinas principales",
+            "codigo_rev4": "7010",
+            "nivel": 3,
+            "padre_id": 577
+        },
+        {
+            "actividad_economica_id": 579,
+            "actividad_economica_desc": "Actividades de consultoría de gestión ",
+            "codigo_rev4": "702",
+            "nivel": 2,
+            "padre_id": 576
+        },
+        {
+            "actividad_economica_id": 580,
+            "actividad_economica_desc": "Actividades de consultoría de gestión ",
+            "codigo_rev4": "7020",
+            "nivel": 3,
+            "padre_id": 579
+        },
+        {
+            "actividad_economica_id": 581,
+            "actividad_economica_desc": "Actividades de arquitectura e ingeniería; ensayos y análisis técnicos ",
+            "codigo_rev4": "71",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 582,
+            "actividad_economica_desc": "Actividades de arquitectura e ingeniería y actividades conexas de consultoría técnica ",
+            "codigo_rev4": "711",
+            "nivel": 2,
+            "padre_id": 581
+        },
+        {
+            "actividad_economica_id": 583,
+            "actividad_economica_desc": "Actividades de arquitectura e ingeniería y actividades conexas de consultoría técnica ",
+            "codigo_rev4": "7110",
+            "nivel": 3,
+            "padre_id": 582
+        },
+        {
+            "actividad_economica_id": 584,
+            "actividad_economica_desc": "Ensayos y análisis técnicos",
+            "codigo_rev4": "712",
+            "nivel": 2,
+            "padre_id": 581
+        },
+        {
+            "actividad_economica_id": 585,
+            "actividad_economica_desc": "Ensayos y análisis técnicos",
+            "codigo_rev4": "7120",
+            "nivel": 3,
+            "padre_id": 584
+        },
+        {
+            "actividad_economica_id": 586,
+            "actividad_economica_desc": "Investigación científica y desarrollo",
+            "codigo_rev4": "72",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 587,
+            "actividad_economica_desc": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería",
+            "codigo_rev4": "721",
+            "nivel": 2,
+            "padre_id": 586
+        },
+        {
+            "actividad_economica_id": 588,
+            "actividad_economica_desc": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería",
+            "codigo_rev4": "7210",
+            "nivel": 3,
+            "padre_id": 587
+        },
+        {
+            "actividad_economica_id": 589,
+            "actividad_economica_desc": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades",
+            "codigo_rev4": "722",
+            "nivel": 2,
+            "padre_id": 586
+        },
+        {
+            "actividad_economica_id": 590,
+            "actividad_economica_desc": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades",
+            "codigo_rev4": "7220",
+            "nivel": 3,
+            "padre_id": 589
+        },
+        {
+            "actividad_economica_id": 591,
+            "actividad_economica_desc": "Publicidad y estudios de mercado ",
+            "codigo_rev4": "73",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 592,
+            "actividad_economica_desc": "Publicidad ",
+            "codigo_rev4": "731",
+            "nivel": 2,
+            "padre_id": 591
+        },
+        {
+            "actividad_economica_id": 593,
+            "actividad_economica_desc": "Publicidad ",
+            "codigo_rev4": "7310",
+            "nivel": 3,
+            "padre_id": 592
+        },
+        {
+            "actividad_economica_id": 594,
+            "actividad_economica_desc": "Estudios de mercado y encuestas de opinión pública",
+            "codigo_rev4": "732",
+            "nivel": 2,
+            "padre_id": 591
+        },
+        {
+            "actividad_economica_id": 595,
+            "actividad_economica_desc": "Estudios de mercado y encuestas de opinión pública",
+            "codigo_rev4": "7320",
+            "nivel": 3,
+            "padre_id": 594
+        },
+        {
+            "actividad_economica_id": 596,
+            "actividad_economica_desc": "Otras actividades profesionales, científicas y técnicas",
+            "codigo_rev4": "74",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 597,
+            "actividad_economica_desc": "Actividades especializadas de diseño",
+            "codigo_rev4": "741",
+            "nivel": 2,
+            "padre_id": 596
+        },
+        {
+            "actividad_economica_id": 598,
+            "actividad_economica_desc": "Actividades especializadas de diseño",
+            "codigo_rev4": "7410",
+            "nivel": 3,
+            "padre_id": 597
+        },
+        {
+            "actividad_economica_id": 599,
+            "actividad_economica_desc": "Actividades de fotografía ",
+            "codigo_rev4": "742",
+            "nivel": 2,
+            "padre_id": 596
+        },
+        {
+            "actividad_economica_id": 600,
+            "actividad_economica_desc": "Actividades de fotografía ",
+            "codigo_rev4": "7420",
+            "nivel": 3,
+            "padre_id": 599
+        },
+        {
+            "actividad_economica_id": 601,
+            "actividad_economica_desc": "Otras actividades profesionales, científicas y técnicas n.c.p. ",
+            "codigo_rev4": "749",
+            "nivel": 2,
+            "padre_id": 596
+        },
+        {
+            "actividad_economica_id": 602,
+            "actividad_economica_desc": "Otras actividades profesionales, científicas y técnicas n.c.p. ",
+            "codigo_rev4": "7490",
+            "nivel": 3,
+            "padre_id": 601
+        },
+        {
+            "actividad_economica_id": 603,
+            "actividad_economica_desc": "Actividades veterinarias",
+            "codigo_rev4": "75",
+            "nivel": 1,
+            "padre_id": 570
+        },
+        {
+            "actividad_economica_id": 604,
+            "actividad_economica_desc": "Actividades veterinarias",
+            "codigo_rev4": "750",
+            "nivel": 2,
+            "padre_id": 603
+        },
+        {
+            "actividad_economica_id": 605,
+            "actividad_economica_desc": "Actividades veterinarias",
+            "codigo_rev4": "7500",
+            "nivel": 3,
+            "padre_id": 604
+        },
+        {
+            "actividad_economica_id": 606,
+            "actividad_economica_desc": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO",
+            "codigo_rev4": "N",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 607,
+            "actividad_economica_desc": "Actividades de alquiler y arrendamiento ",
+            "codigo_rev4": "77",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 608,
+            "actividad_economica_desc": "Alquiler y arrendamiento de vehículos automotores",
+            "codigo_rev4": "771",
+            "nivel": 2,
+            "padre_id": 607
+        },
+        {
+            "actividad_economica_id": 609,
+            "actividad_economica_desc": "Alquiler y arrendamiento de vehículos automotores",
+            "codigo_rev4": "7710",
+            "nivel": 3,
+            "padre_id": 608
+        },
+        {
+            "actividad_economica_id": 610,
+            "actividad_economica_desc": "Alquiler y arrendamiento de efectos personales y enseres domésticos ",
+            "codigo_rev4": "772",
+            "nivel": 2,
+            "padre_id": 607
+        },
+        {
+            "actividad_economica_id": 611,
+            "actividad_economica_desc": "Alquiler y arrendamiento de equipo recreativo y deportivo",
+            "codigo_rev4": "7721",
+            "nivel": 3,
+            "padre_id": 610
+        },
+        {
+            "actividad_economica_id": 612,
+            "actividad_economica_desc": "Alquiler de cintas de vídeo y discos ",
+            "codigo_rev4": "7722",
+            "nivel": 3,
+            "padre_id": 610
+        },
+        {
+            "actividad_economica_id": 613,
+            "actividad_economica_desc": "Alquiler y arrendamiento de otros efectos personales y enseres domésticos",
+            "codigo_rev4": "7729",
+            "nivel": 3,
+            "padre_id": 610
+        },
+        {
+            "actividad_economica_id": 614,
+            "actividad_economica_desc": "Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles",
+            "codigo_rev4": "773",
+            "nivel": 2,
+            "padre_id": 607
+        },
+        {
+            "actividad_economica_id": 615,
+            "actividad_economica_desc": "Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles",
+            "codigo_rev4": "7730",
+            "nivel": 3,
+            "padre_id": 614
+        },
+        {
+            "actividad_economica_id": 616,
+            "actividad_economica_desc": "Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor",
+            "codigo_rev4": "774",
+            "nivel": 2,
+            "padre_id": 607
+        },
+        {
+            "actividad_economica_id": 617,
+            "actividad_economica_desc": "Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor",
+            "codigo_rev4": "7740",
+            "nivel": 3,
+            "padre_id": 616
+        },
+        {
+            "actividad_economica_id": 618,
+            "actividad_economica_desc": "Actividades de empleo ",
+            "codigo_rev4": "78",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 619,
+            "actividad_economica_desc": "Actividades de agencias de empleo ",
+            "codigo_rev4": "781",
+            "nivel": 2,
+            "padre_id": 618
+        },
+        {
+            "actividad_economica_id": 620,
+            "actividad_economica_desc": "Actividades de agencias de empleo ",
+            "codigo_rev4": "7810",
+            "nivel": 3,
+            "padre_id": 619
+        },
+        {
+            "actividad_economica_id": 621,
+            "actividad_economica_desc": "Actividades de agencias de empleo temporal",
+            "codigo_rev4": "782",
+            "nivel": 2,
+            "padre_id": 618
+        },
+        {
+            "actividad_economica_id": 622,
+            "actividad_economica_desc": "Actividades de agencias de empleo temporal",
+            "codigo_rev4": "7820",
+            "nivel": 3,
+            "padre_id": 621
+        },
+        {
+            "actividad_economica_id": 623,
+            "actividad_economica_desc": "Otras actividades de dotación de recursos humanos ",
+            "codigo_rev4": "783",
+            "nivel": 2,
+            "padre_id": 618
+        },
+        {
+            "actividad_economica_id": 624,
+            "actividad_economica_desc": "Otras actividades de dotación de recursos humanos ",
+            "codigo_rev4": "7830",
+            "nivel": 3,
+            "padre_id": 623
+        },
+        {
+            "actividad_economica_id": 625,
+            "actividad_economica_desc": "Actividades de agencias de viajes y operadores turísticos y servicios de reservas y actividades conexas ",
+            "codigo_rev4": "79",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 626,
+            "actividad_economica_desc": "Actividades de agencias de viajes y operadores turísticos",
+            "codigo_rev4": "791",
+            "nivel": 2,
+            "padre_id": 625
+        },
+        {
+            "actividad_economica_id": 627,
+            "actividad_economica_desc": "Actividades de agencias de viajes ",
+            "codigo_rev4": "7911",
+            "nivel": 3,
+            "padre_id": 626
+        },
+        {
+            "actividad_economica_id": 628,
+            "actividad_economica_desc": "Actividades de operadores turísticos",
+            "codigo_rev4": "7912",
+            "nivel": 3,
+            "padre_id": 626
+        },
+        {
+            "actividad_economica_id": 629,
+            "actividad_economica_desc": "Otros servicios de reservas y actividades conexas ",
+            "codigo_rev4": "799",
+            "nivel": 2,
+            "padre_id": 625
+        },
+        {
+            "actividad_economica_id": 630,
+            "actividad_economica_desc": "Otros servicios de reservas y actividades conexas ",
+            "codigo_rev4": "7990",
+            "nivel": 3,
+            "padre_id": 629
+        },
+        {
+            "actividad_economica_id": 631,
+            "actividad_economica_desc": "Actividades de seguridad e investigación ",
+            "codigo_rev4": "80",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 632,
+            "actividad_economica_desc": "Actividades de seguridad privada",
+            "codigo_rev4": "801",
+            "nivel": 2,
+            "padre_id": 631
+        },
+        {
+            "actividad_economica_id": 633,
+            "actividad_economica_desc": "Actividades de seguridad privada",
+            "codigo_rev4": "8010",
+            "nivel": 3,
+            "padre_id": 632
+        },
+        {
+            "actividad_economica_id": 634,
+            "actividad_economica_desc": "Actividades de servicios de sistemas de seguridad ",
+            "codigo_rev4": "802",
+            "nivel": 2,
+            "padre_id": 631
+        },
+        {
+            "actividad_economica_id": 635,
+            "actividad_economica_desc": "Actividades de servicios de sistemas de seguridad ",
+            "codigo_rev4": "8020",
+            "nivel": 3,
+            "padre_id": 634
+        },
+        {
+            "actividad_economica_id": 636,
+            "actividad_economica_desc": "Actividades de investigación ",
+            "codigo_rev4": "803",
+            "nivel": 2,
+            "padre_id": 631
+        },
+        {
+            "actividad_economica_id": 637,
+            "actividad_economica_desc": "Actividades de investigación ",
+            "codigo_rev4": "8030",
+            "nivel": 3,
+            "padre_id": 636
+        },
+        {
+            "actividad_economica_id": 638,
+            "actividad_economica_desc": "Actividades de servicios a edificios y de paisajismo",
+            "codigo_rev4": "81",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 639,
+            "actividad_economica_desc": "Actividades combinadas de apoyo a instalaciones",
+            "codigo_rev4": "811",
+            "nivel": 2,
+            "padre_id": 638
+        },
+        {
+            "actividad_economica_id": 640,
+            "actividad_economica_desc": "Actividades combinadas de apoyo a instalaciones",
+            "codigo_rev4": "8110",
+            "nivel": 3,
+            "padre_id": 639
+        },
+        {
+            "actividad_economica_id": 641,
+            "actividad_economica_desc": "Actividades de limpieza ",
+            "codigo_rev4": "812",
+            "nivel": 2,
+            "padre_id": 638
+        },
+        {
+            "actividad_economica_id": 642,
+            "actividad_economica_desc": "Limpieza general de edificios",
+            "codigo_rev4": "8121",
+            "nivel": 3,
+            "padre_id": 641
+        },
+        {
+            "actividad_economica_id": 643,
+            "actividad_economica_desc": "Otras actividades de limpieza de edificios y de instalaciones industriales",
+            "codigo_rev4": "8129",
+            "nivel": 3,
+            "padre_id": 641
+        },
+        {
+            "actividad_economica_id": 644,
+            "actividad_economica_desc": "Actividades de paisajismo y servicios de mantenimiento conexos",
+            "codigo_rev4": "813",
+            "nivel": 2,
+            "padre_id": 638
+        },
+        {
+            "actividad_economica_id": 645,
+            "actividad_economica_desc": "Actividades de paisajismo y servicios de mantenimiento conexos",
+            "codigo_rev4": "8130",
+            "nivel": 3,
+            "padre_id": 644
+        },
+        {
+            "actividad_economica_id": 646,
+            "actividad_economica_desc": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas ",
+            "codigo_rev4": "82",
+            "nivel": 1,
+            "padre_id": 606
+        },
+        {
+            "actividad_economica_id": 647,
+            "actividad_economica_desc": "Actividades administrativas y de apoyo de oficina ",
+            "codigo_rev4": "821",
+            "nivel": 2,
+            "padre_id": 646
+        },
+        {
+            "actividad_economica_id": 648,
+            "actividad_economica_desc": "Actividades combinadas de servicios administrativos de oficina ",
+            "codigo_rev4": "8211",
+            "nivel": 3,
+            "padre_id": 647
+        },
+        {
+            "actividad_economica_id": 649,
+            "actividad_economica_desc": "Fotocopiado, preparación de documentos y otras actividades especializadas de apoyo de oficina",
+            "codigo_rev4": "8219",
+            "nivel": 3,
+            "padre_id": 647
+        },
+        {
+            "actividad_economica_id": 650,
+            "actividad_economica_desc": "Actividades de centros de llamadas ",
+            "codigo_rev4": "822",
+            "nivel": 2,
+            "padre_id": 646
+        },
+        {
+            "actividad_economica_id": 651,
+            "actividad_economica_desc": "Actividades de centros de llamadas ",
+            "codigo_rev4": "8220",
+            "nivel": 3,
+            "padre_id": 650
+        },
+        {
+            "actividad_economica_id": 652,
+            "actividad_economica_desc": "Organización de convenciones y exposiciones comerciales",
+            "codigo_rev4": "823",
+            "nivel": 2,
+            "padre_id": 646
+        },
+        {
+            "actividad_economica_id": 653,
+            "actividad_economica_desc": "Organización de convenciones y exposiciones comerciales",
+            "codigo_rev4": "8230",
+            "nivel": 3,
+            "padre_id": 652
+        },
+        {
+            "actividad_economica_id": 654,
+            "actividad_economica_desc": "Actividades de servicios de apoyo a las empresas n.c.p. ",
+            "codigo_rev4": "829",
+            "nivel": 2,
+            "padre_id": 646
+        },
+        {
+            "actividad_economica_id": 655,
+            "actividad_economica_desc": "Actividades de agencias de cobro y agencias de calificación crediticia",
+            "codigo_rev4": "8291",
+            "nivel": 3,
+            "padre_id": 654
+        },
+        {
+            "actividad_economica_id": 656,
+            "actividad_economica_desc": "Actividades de envasado y empaquetado ",
+            "codigo_rev4": "8292",
+            "nivel": 3,
+            "padre_id": 654
+        },
+        {
+            "actividad_economica_id": 657,
+            "actividad_economica_desc": "Otras actividades de servicios de apoyo a las empresas n.c.p.",
+            "codigo_rev4": "8299",
+            "nivel": 3,
+            "padre_id": 654
+        },
+        {
+            "actividad_economica_id": 658,
+            "actividad_economica_desc": "ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",
+            "codigo_rev4": "O",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 659,
+            "actividad_economica_desc": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria ",
+            "codigo_rev4": "84",
+            "nivel": 1,
+            "padre_id": 658
+        },
+        {
+            "actividad_economica_id": 660,
+            "actividad_economica_desc": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+            "codigo_rev4": "841",
+            "nivel": 2,
+            "padre_id": 659
+        },
+        {
+            "actividad_economica_id": 661,
+            "actividad_economica_desc": "Actividades de la administración pública en general ",
+            "codigo_rev4": "8411",
+            "nivel": 3,
+            "padre_id": 660
+        },
+        {
+            "actividad_economica_id": 662,
+            "actividad_economica_desc": "Regulación de las actividades de organismos que prestan servicios sanitarios, educativos, culturales y otros",
+            "codigo_rev4": "8412",
+            "nivel": 3,
+            "padre_id": 660
+        },
+        {
+            "actividad_economica_id": 663,
+            "actividad_economica_desc": "Regulación y facilitación de la actividad económica ",
+            "codigo_rev4": "8413",
+            "nivel": 3,
+            "padre_id": 660
+        },
+        {
+            "actividad_economica_id": 664,
+            "actividad_economica_desc": "Prestación de servicios a la comunidad en general",
+            "codigo_rev4": "842",
+            "nivel": 2,
+            "padre_id": 659
+        },
+        {
+            "actividad_economica_id": 665,
+            "actividad_economica_desc": "Relaciones exteriores",
+            "codigo_rev4": "8421",
+            "nivel": 3,
+            "padre_id": 664
+        },
+        {
+            "actividad_economica_id": 666,
+            "actividad_economica_desc": "Actividades de defensa ",
+            "codigo_rev4": "8422",
+            "nivel": 3,
+            "padre_id": 664
+        },
+        {
+            "actividad_economica_id": 667,
+            "actividad_economica_desc": "Actividades de mantenimiento del orden público y de seguridad ",
+            "codigo_rev4": "8423",
+            "nivel": 3,
+            "padre_id": 664
+        },
+        {
+            "actividad_economica_id": 668,
+            "actividad_economica_desc": "Actividades de planes de seguridad social de afiliación obligatoria ",
+            "codigo_rev4": "843",
+            "nivel": 2,
+            "padre_id": 659
+        },
+        {
+            "actividad_economica_id": 669,
+            "actividad_economica_desc": "Actividades de planes de seguridad social de afiliación obligatoria ",
+            "codigo_rev4": "8430",
+            "nivel": 3,
+            "padre_id": 668
+        },
+        {
+            "actividad_economica_id": 670,
+            "actividad_economica_desc": " ENSEÑANZA",
+            "codigo_rev4": "P",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 671,
+            "actividad_economica_desc": "Enseñanza ",
+            "codigo_rev4": "85",
+            "nivel": 1,
+            "padre_id": 670
+        },
+        {
+            "actividad_economica_id": 672,
+            "actividad_economica_desc": "Enseñanza preescolar y primaria ",
+            "codigo_rev4": "851",
+            "nivel": 2,
+            "padre_id": 671
+        },
+        {
+            "actividad_economica_id": 673,
+            "actividad_economica_desc": "Enseñanza preescolar y primaria",
+            "codigo_rev4": "8510",
+            "nivel": 3,
+            "padre_id": 672
+        },
+        {
+            "actividad_economica_id": 674,
+            "actividad_economica_desc": "Enseñanza secundaria",
+            "codigo_rev4": "852",
+            "nivel": 2,
+            "padre_id": 671
+        },
+        {
+            "actividad_economica_id": 675,
+            "actividad_economica_desc": "Enseñanza secundaria de formación general ",
+            "codigo_rev4": "8521",
+            "nivel": 3,
+            "padre_id": 674
+        },
+        {
+            "actividad_economica_id": 676,
+            "actividad_economica_desc": "Enseñanza secundaria de formación técnica y profesional ",
+            "codigo_rev4": "8522",
+            "nivel": 3,
+            "padre_id": 674
+        },
+        {
+            "actividad_economica_id": 677,
+            "actividad_economica_desc": "Enseñanza superior",
+            "codigo_rev4": "853",
+            "nivel": 2,
+            "padre_id": 671
+        },
+        {
+            "actividad_economica_id": 678,
+            "actividad_economica_desc": "Enseñanza superior",
+            "codigo_rev4": "8530",
+            "nivel": 3,
+            "padre_id": 677
+        },
+        {
+            "actividad_economica_id": 679,
+            "actividad_economica_desc": "Otros tipos de enseñanza",
+            "codigo_rev4": "854",
+            "nivel": 2,
+            "padre_id": 671
+        },
+        {
+            "actividad_economica_id": 680,
+            "actividad_economica_desc": "Enseñanza deportiva y recreativa",
+            "codigo_rev4": "8541",
+            "nivel": 3,
+            "padre_id": 679
+        },
+        {
+            "actividad_economica_id": 681,
+            "actividad_economica_desc": "Enseñanza cultural",
+            "codigo_rev4": "8542",
+            "nivel": 3,
+            "padre_id": 679
+        },
+        {
+            "actividad_economica_id": 682,
+            "actividad_economica_desc": "Otros tipos de enseñanza n.c.p. ",
+            "codigo_rev4": "8549",
+            "nivel": 3,
+            "padre_id": 679
+        },
+        {
+            "actividad_economica_id": 683,
+            "actividad_economica_desc": "Actividades de apoyo a la enseñanza",
+            "codigo_rev4": "855",
+            "nivel": 2,
+            "padre_id": 671
+        },
+        {
+            "actividad_economica_id": 684,
+            "actividad_economica_desc": "Actividades de apoyo a la enseñanza",
+            "codigo_rev4": "8550",
+            "nivel": 3,
+            "padre_id": 683
+        },
+        {
+            "actividad_economica_id": 685,
+            "actividad_economica_desc": "SALUD HUMANA Y SERVICIOS SOCIALES",
+            "codigo_rev4": "Q",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 686,
+            "actividad_economica_desc": "Actividades de atención de la salud humana ",
+            "codigo_rev4": "86",
+            "nivel": 1,
+            "padre_id": 685
+        },
+        {
+            "actividad_economica_id": 687,
+            "actividad_economica_desc": "Actividades de hospitales ",
+            "codigo_rev4": "861",
+            "nivel": 2,
+            "padre_id": 686
+        },
+        {
+            "actividad_economica_id": 688,
+            "actividad_economica_desc": "Actividades de hospitales ",
+            "codigo_rev4": "8610",
+            "nivel": 3,
+            "padre_id": 687
+        },
+        {
+            "actividad_economica_id": 689,
+            "actividad_economica_desc": "Actividades de médicos y odontólogos ",
+            "codigo_rev4": "862",
+            "nivel": 2,
+            "padre_id": 686
+        },
+        {
+            "actividad_economica_id": 690,
+            "actividad_economica_desc": "Actividades de médicos y odontólogos ",
+            "codigo_rev4": "8620",
+            "nivel": 3,
+            "padre_id": 689
+        },
+        {
+            "actividad_economica_id": 691,
+            "actividad_economica_desc": "Otras actividades de atención de la salud humana",
+            "codigo_rev4": "869",
+            "nivel": 2,
+            "padre_id": 686
+        },
+        {
+            "actividad_economica_id": 692,
+            "actividad_economica_desc": "Otras actividades de atención de la salud humana",
+            "codigo_rev4": "8690",
+            "nivel": 3,
+            "padre_id": 691
+        },
+        {
+            "actividad_economica_id": 693,
+            "actividad_economica_desc": "Actividades de atención en instituciones ",
+            "codigo_rev4": "87",
+            "nivel": 1,
+            "padre_id": 685
+        },
+        {
+            "actividad_economica_id": 694,
+            "actividad_economica_desc": "Actividades de atención de enfermería en instituciones ",
+            "codigo_rev4": "871",
+            "nivel": 2,
+            "padre_id": 693
+        },
+        {
+            "actividad_economica_id": 695,
+            "actividad_economica_desc": "Actividades de atención de enfermería en instituciones ",
+            "codigo_rev4": "8710",
+            "nivel": 3,
+            "padre_id": 694
+        },
+        {
+            "actividad_economica_id": 696,
+            "actividad_economica_desc": "Actividades de atención en instituciones para personas con retraso mental, enfermos mentales y toxicómanos",
+            "codigo_rev4": "872",
+            "nivel": 2,
+            "padre_id": 693
+        },
+        {
+            "actividad_economica_id": 697,
+            "actividad_economica_desc": "Actividades de atención en instituciones para personas con retraso mental, enfermos mentales y toxicómanos",
+            "codigo_rev4": "8720",
+            "nivel": 3,
+            "padre_id": 696
+        },
+        {
+            "actividad_economica_id": 698,
+            "actividad_economica_desc": "Actividades de atención en instituciones para personas de edad y personas con discapacidad ",
+            "codigo_rev4": "873",
+            "nivel": 2,
+            "padre_id": 693
+        },
+        {
+            "actividad_economica_id": 699,
+            "actividad_economica_desc": "Actividades de atención en instituciones para personas de edad y personas con discapacidad ",
+            "codigo_rev4": "8730",
+            "nivel": 3,
+            "padre_id": 698
+        },
+        {
+            "actividad_economica_id": 700,
+            "actividad_economica_desc": "Otras actividades de atención en instituciones",
+            "codigo_rev4": "879",
+            "nivel": 2,
+            "padre_id": 693
+        },
+        {
+            "actividad_economica_id": 701,
+            "actividad_economica_desc": "Otras actividades de atención en instituciones",
+            "codigo_rev4": "8790",
+            "nivel": 3,
+            "padre_id": 700
+        },
+        {
+            "actividad_economica_id": 702,
+            "actividad_economica_desc": "Actividades de asistencia social sin alojamiento",
+            "codigo_rev4": "88",
+            "nivel": 1,
+            "padre_id": 685
+        },
+        {
+            "actividad_economica_id": 703,
+            "actividad_economica_desc": "Actividades de asistencia social sin alojamiento para personas de edad y personas con discapacidad",
+            "codigo_rev4": "881",
+            "nivel": 2,
+            "padre_id": 702
+        },
+        {
+            "actividad_economica_id": 704,
+            "actividad_economica_desc": "Actividades de asistencia social sin alojamiento para personas de edad y personas con discapacidad",
+            "codigo_rev4": "8810",
+            "nivel": 3,
+            "padre_id": 703
+        },
+        {
+            "actividad_economica_id": 705,
+            "actividad_economica_desc": "Otras actividades de asistencia social sin alojamiento ",
+            "codigo_rev4": "889",
+            "nivel": 2,
+            "padre_id": 702
+        },
+        {
+            "actividad_economica_id": 706,
+            "actividad_economica_desc": "Otras actividades de asistencia social sin alojamiento ",
+            "codigo_rev4": "8890",
+            "nivel": 3,
+            "padre_id": 705
+        },
+        {
+            "actividad_economica_id": 707,
+            "actividad_economica_desc": " SERVICIOS ARTÍSTICOS, CULTURALES, DEPORTIVOS Y DE ESPARCIMIENTO",
+            "codigo_rev4": "R",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 708,
+            "actividad_economica_desc": "Actividades creativas, artísticas y de entretenimiento",
+            "codigo_rev4": "90",
+            "nivel": 1,
+            "padre_id": 707
+        },
+        {
+            "actividad_economica_id": 709,
+            "actividad_economica_desc": "Actividades creativas, artísticas y de entretenimiento",
+            "codigo_rev4": "900",
+            "nivel": 2,
+            "padre_id": 708
+        },
+        {
+            "actividad_economica_id": 710,
+            "actividad_economica_desc": "Actividades creativas, artísticas y de entretenimiento",
+            "codigo_rev4": "9000",
+            "nivel": 3,
+            "padre_id": 709
+        },
+        {
+            "actividad_economica_id": 711,
+            "actividad_economica_desc": "Actividades de bibliotecas, archivos y museos y otras actividades culturales",
+            "codigo_rev4": "91",
+            "nivel": 1,
+            "padre_id": 707
+        },
+        {
+            "actividad_economica_id": 712,
+            "actividad_economica_desc": "Actividades de bibliotecas, archivos y museos y otras actividades culturales",
+            "codigo_rev4": "910",
+            "nivel": 2,
+            "padre_id": 711
+        },
+        {
+            "actividad_economica_id": 713,
+            "actividad_economica_desc": "Actividades de bibliotecas y archivos ",
+            "codigo_rev4": "9101",
+            "nivel": 3,
+            "padre_id": 712
+        },
+        {
+            "actividad_economica_id": 714,
+            "actividad_economica_desc": "Actividades de museos y conservación de lugares y edificios históricos",
+            "codigo_rev4": "9102",
+            "nivel": 3,
+            "padre_id": 712
+        },
+        {
+            "actividad_economica_id": 715,
+            "actividad_economica_desc": "Actividades de jardines botánicos y zoológicos y de reservas naturales",
+            "codigo_rev4": "9103",
+            "nivel": 3,
+            "padre_id": 712
+        },
+        {
+            "actividad_economica_id": 716,
+            "actividad_economica_desc": "Actividades de juegos de azar y apuestas ",
+            "codigo_rev4": "92",
+            "nivel": 1,
+            "padre_id": 707
+        },
+        {
+            "actividad_economica_id": 717,
+            "actividad_economica_desc": "Actividades de juegos de azar y apuestas ",
+            "codigo_rev4": "920",
+            "nivel": 2,
+            "padre_id": 716
+        },
+        {
+            "actividad_economica_id": 718,
+            "actividad_economica_desc": "Actividades de juegos de azar y apuestas ",
+            "codigo_rev4": "9200",
+            "nivel": 3,
+            "padre_id": 717
+        },
+        {
+            "actividad_economica_id": 719,
+            "actividad_economica_desc": "Actividades deportivas, de esparcimiento y recreativas",
+            "codigo_rev4": "93",
+            "nivel": 1,
+            "padre_id": 707
+        },
+        {
+            "actividad_economica_id": 720,
+            "actividad_economica_desc": "Actividades deportivas",
+            "codigo_rev4": "931",
+            "nivel": 2,
+            "padre_id": 719
+        },
+        {
+            "actividad_economica_id": 721,
+            "actividad_economica_desc": "Gestión de instalaciones deportivas",
+            "codigo_rev4": "9311",
+            "nivel": 3,
+            "padre_id": 720
+        },
+        {
+            "actividad_economica_id": 722,
+            "actividad_economica_desc": "Actividades de clubes deportivos",
+            "codigo_rev4": "9312",
+            "nivel": 3,
+            "padre_id": 720
+        },
+        {
+            "actividad_economica_id": 723,
+            "actividad_economica_desc": "Otras actividades deportivas ",
+            "codigo_rev4": "9319",
+            "nivel": 3,
+            "padre_id": 720
+        },
+        {
+            "actividad_economica_id": 724,
+            "actividad_economica_desc": "Otras actividades de esparcimiento y recreativas",
+            "codigo_rev4": "932",
+            "nivel": 2,
+            "padre_id": 719
+        },
+        {
+            "actividad_economica_id": 725,
+            "actividad_economica_desc": "Actividades de parques de atracciones y parques temáticos",
+            "codigo_rev4": "9321",
+            "nivel": 3,
+            "padre_id": 724
+        },
+        {
+            "actividad_economica_id": 726,
+            "actividad_economica_desc": "Otras actividades de esparcimiento y recreativas n.c.p. ",
+            "codigo_rev4": "9329",
+            "nivel": 3,
+            "padre_id": 724
+        },
+        {
+            "actividad_economica_id": 727,
+            "actividad_economica_desc": "SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES",
+            "codigo_rev4": "S",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 728,
+            "actividad_economica_desc": "Actividades de asociaciones ",
+            "codigo_rev4": "94",
+            "nivel": 1,
+            "padre_id": 727
+        },
+        {
+            "actividad_economica_id": 729,
+            "actividad_economica_desc": "Actividades de asociaciones empresariales, profesionales y de empleadores",
+            "codigo_rev4": "941",
+            "nivel": 2,
+            "padre_id": 728
+        },
+        {
+            "actividad_economica_id": 730,
+            "actividad_economica_desc": "Actividades de asociaciones empresariales y de empleadores ",
+            "codigo_rev4": "9411",
+            "nivel": 3,
+            "padre_id": 729
+        },
+        {
+            "actividad_economica_id": 731,
+            "actividad_economica_desc": "Actividades de asociaciones profesionales",
+            "codigo_rev4": "9412",
+            "nivel": 3,
+            "padre_id": 729
+        },
+        {
+            "actividad_economica_id": 732,
+            "actividad_economica_desc": "Actividades de sindicatos ",
+            "codigo_rev4": "942",
+            "nivel": 2,
+            "padre_id": 728
+        },
+        {
+            "actividad_economica_id": 733,
+            "actividad_economica_desc": "Actividades de sindicatos ",
+            "codigo_rev4": "9420",
+            "nivel": 3,
+            "padre_id": 732
+        },
+        {
+            "actividad_economica_id": 734,
+            "actividad_economica_desc": "Actividades de otras asociaciones",
+            "codigo_rev4": "949",
+            "nivel": 2,
+            "padre_id": 728
+        },
+        {
+            "actividad_economica_id": 735,
+            "actividad_economica_desc": "Actividades de organizaciones religiosas",
+            "codigo_rev4": "9491",
+            "nivel": 3,
+            "padre_id": 734
+        },
+        {
+            "actividad_economica_id": 736,
+            "actividad_economica_desc": "Actividades de organizaciones políticas",
+            "codigo_rev4": "9492",
+            "nivel": 3,
+            "padre_id": 734
+        },
+        {
+            "actividad_economica_id": 737,
+            "actividad_economica_desc": "Actividades de otras asociaciones n.c.p. ",
+            "codigo_rev4": "9499",
+            "nivel": 3,
+            "padre_id": 734
+        },
+        {
+            "actividad_economica_id": 738,
+            "actividad_economica_desc": "Reparación de ordenadores y de efectos personales y enseres domésticos",
+            "codigo_rev4": "95",
+            "nivel": 1,
+            "padre_id": 727
+        },
+        {
+            "actividad_economica_id": 739,
+            "actividad_economica_desc": "Reparación de ordenadores y equipo de comunicaciones ",
+            "codigo_rev4": "951",
+            "nivel": 2,
+            "padre_id": 738
+        },
+        {
+            "actividad_economica_id": 740,
+            "actividad_economica_desc": "Reparación de ordenadores y equipo periférico",
+            "codigo_rev4": "9511",
+            "nivel": 3,
+            "padre_id": 739
+        },
+        {
+            "actividad_economica_id": 741,
+            "actividad_economica_desc": "Reparación de equipo de comunicaciones ",
+            "codigo_rev4": "9512",
+            "nivel": 3,
+            "padre_id": 739
+        },
+        {
+            "actividad_economica_id": 742,
+            "actividad_economica_desc": "Reparación de efectos personales y enseres domésticos ",
+            "codigo_rev4": "952",
+            "nivel": 2,
+            "padre_id": 738
+        },
+        {
+            "actividad_economica_id": 743,
+            "actividad_economica_desc": "Reparación de aparatos electrónicos de consumo",
+            "codigo_rev4": "9521",
+            "nivel": 3,
+            "padre_id": 742
+        },
+        {
+            "actividad_economica_id": 744,
+            "actividad_economica_desc": "Reparación de aparatos de uso doméstico y equipo doméstico y de jardinería",
+            "codigo_rev4": "9522",
+            "nivel": 3,
+            "padre_id": 742
+        },
+        {
+            "actividad_economica_id": 745,
+            "actividad_economica_desc": "Reparación de calzado y de artículos de cuero",
+            "codigo_rev4": "9523",
+            "nivel": 3,
+            "padre_id": 742
+        },
+        {
+            "actividad_economica_id": 746,
+            "actividad_economica_desc": "Reparación de muebles y accesorios domésticos",
+            "codigo_rev4": "9524",
+            "nivel": 3,
+            "padre_id": 742
+        },
+        {
+            "actividad_economica_id": 747,
+            "actividad_economica_desc": "Reparación de otros efectos personales y enseres domésticos",
+            "codigo_rev4": "9529",
+            "nivel": 3,
+            "padre_id": 742
+        },
+        {
+            "actividad_economica_id": 748,
+            "actividad_economica_desc": "Otras actividades de servicios personales ",
+            "codigo_rev4": "96",
+            "nivel": 1,
+            "padre_id": 727
+        },
+        {
+            "actividad_economica_id": 749,
+            "actividad_economica_desc": "Otras actividades de servicios personales ",
+            "codigo_rev4": "960",
+            "nivel": 2,
+            "padre_id": 748
+        },
+        {
+            "actividad_economica_id": 750,
+            "actividad_economica_desc": "Lavado y limpieza, incluida la limpieza en seco, de productos textiles y de piel",
+            "codigo_rev4": "9601",
+            "nivel": 3,
+            "padre_id": 749
+        },
+        {
+            "actividad_economica_id": 751,
+            "actividad_economica_desc": "Peluquería y otros tratamientos de belleza",
+            "codigo_rev4": "9602",
+            "nivel": 3,
+            "padre_id": 749
+        },
+        {
+            "actividad_economica_id": 752,
+            "actividad_economica_desc": "Pompas fúnebres y actividades conexas ",
+            "codigo_rev4": "9603",
+            "nivel": 3,
+            "padre_id": 749
+        },
+        {
+            "actividad_economica_id": 753,
+            "actividad_economica_desc": "Otras actividades de servicios personales n.c.p.",
+            "codigo_rev4": "9609",
+            "nivel": 3,
+            "padre_id": 749
+        },
+        {
+            "actividad_economica_id": 754,
+            "actividad_economica_desc": "SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMESTICO",
+            "codigo_rev4": "T",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 755,
+            "actividad_economica_desc": "Actividades de los hogares como empleadores de personal doméstico ",
+            "codigo_rev4": "97",
+            "nivel": 1,
+            "padre_id": 754
+        },
+        {
+            "actividad_economica_id": 756,
+            "actividad_economica_desc": "Actividades de los hogares como empleadores de personal doméstico ",
+            "codigo_rev4": "970",
+            "nivel": 2,
+            "padre_id": 755
+        },
+        {
+            "actividad_economica_id": 757,
+            "actividad_economica_desc": "Actividades de los hogares como empleadores de personal doméstico ",
+            "codigo_rev4": "9700",
+            "nivel": 3,
+            "padre_id": 756
+        },
+        {
+            "actividad_economica_id": 758,
+            "actividad_economica_desc": "Actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio ",
+            "codigo_rev4": "98",
+            "nivel": 1,
+            "padre_id": 754
+        },
+        {
+            "actividad_economica_id": 759,
+            "actividad_economica_desc": "Actividades no diferenciadas de los hogares como productores de bienes para uso propio ",
+            "codigo_rev4": "981",
+            "nivel": 2,
+            "padre_id": 758
+        },
+        {
+            "actividad_economica_id": 760,
+            "actividad_economica_desc": "Actividades no diferenciadas de los hogares como productores de bienes para uso propio ",
+            "codigo_rev4": "9810",
+            "nivel": 3,
+            "padre_id": 759
+        },
+        {
+            "actividad_economica_id": 761,
+            "actividad_economica_desc": "Actividades no diferenciadas de los hogares como productores de servicios para uso propio ",
+            "codigo_rev4": "982",
+            "nivel": 2,
+            "padre_id": 758
+        },
+        {
+            "actividad_economica_id": 762,
+            "actividad_economica_desc": "Actividades no diferenciadas de los hogares como productores de servicios para uso propio ",
+            "codigo_rev4": "9820",
+            "nivel": 3,
+            "padre_id": 761
+        },
+        {
+            "actividad_economica_id": 763,
+            "actividad_economica_desc": "SERVICIOS DE ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES",
+            "codigo_rev4": "U",
+            "nivel": 0,
+            "padre_id": null
+        },
+        {
+            "actividad_economica_id": 764,
+            "actividad_economica_desc": "Actividades de organizaciones y órganos extraterritoriales",
+            "codigo_rev4": "99",
+            "nivel": 1,
+            "padre_id": 763
+        },
+        {
+            "actividad_economica_id": 765,
+            "actividad_economica_desc": "Actividades de organizaciones y órganos extraterritoriales",
+            "codigo_rev4": "990",
+            "nivel": 2,
+            "padre_id": 764
+        },
+        {
+            "actividad_economica_id": 766,
+            "actividad_economica_desc": "Actividades de organizaciones y órganos extraterritoriales",
+            "codigo_rev4": "9900",
+            "nivel": 3,
+            "padre_id": 765
+        }
+    ]
+}
